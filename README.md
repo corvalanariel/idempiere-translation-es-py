@@ -30,3 +30,13 @@ General rules used in this repository:
 - English terms are translated when there is a clear Spanish equivalent.
 - Technical terms are kept consistent across modules.
 - Texts are reviewed for grammar, clarity and local usage.
+
+## Security note
+
+This repository does not include customer data, credentials, private configuration files or production-sensitive information.
+
+## Author
+
+Ariel Corvalán  
+Founder of nube ERP  
+https://nube.com.py
