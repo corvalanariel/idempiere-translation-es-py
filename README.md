@@ -29,7 +29,7 @@ General rules used in this repository:
 - Acronyms remain uppercase.
 - English terms are translated when there is a clear Spanish equivalent.
 - Technical terms are kept consistent across modules.
-- Texts are reviewed for grammar, clarity and local usage.
+- Texts are reviewed for grammar, clarity and local usage again.
 
 ## Security note
 
