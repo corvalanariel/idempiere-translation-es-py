@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="PA_DashboardContent">
+ <row id="50000" trl="Y">
+  <value column="Name" original="Activities">Actividades</value>
+  <value column="Description" original="Workflow activities, notices and requests">Actividades de flujo de trabajo, avisos y solicitudes</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Favorites">Favoritos</value>
+  <value column="Description" original="User favorites">Favoritos de usuario</value>
+  <value column="Help" original="Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.">Establezca su menú favorito desde el panel del árbol de menús o arrastre y suelte el elemento del menú en el panel de favoritos. Haga clic derecho en el elemento favorito para eliminarlo. Puede organizar sus favoritos por carpeta.</value>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Views">Vistas</value>
+  <value column="Description" original="Info views">Vistas de Información</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Performance">Desempeño</value>
+  <value column="Description" original="Performance meters">Indicadores de Desempeño</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="50004" trl="N">
+  <value column="Name" original="Calendar">Calendar</value>
+  <value column="Description" original="Request Calendar">Request Calendar</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Recent Items">Registros Recientes</value>
+  <value column="Description" original="Recent items">Registros Recientes</value>
+  <value column="Help" original="Show your latest opened document. Drag and drop a recent item to trash bin to remove it.">Muestra el último documento abierto. Arrastra y suelta un elemento reciente en la papelera para eliminarlo.</value>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Menu">Menú</value>
+  <value column="Description" original="Menu">Menú</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Running Jobs">Tareas en Segundo Plano</value>
+  <value column="Description" original="Running Jobs">Tareas en Segundo Plano</value>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Name" original="Activities">Actividades</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Name" original="nube ERP">nube ERP</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original="&lt;section style=&quot;padding: 40px; background: #f8fafc; border-radius: 16px;&quot;&gt;&#10;  &lt;h2&gt;Client Resources&lt;/h2&gt;&#10;&#10;  &lt;p&gt;&#10;    Everything you need to use, understand, and get the most out of your nube ERP system.&#10;  &lt;/p&gt;&#10;&#10;  &lt;div style=&quot;display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;&quot;&gt;&#10;    &lt;a href=&quot;https://docs.nube.com.py&quot; target=&quot;_blank&quot;&gt;&#10;      User Guides &#128218;&#10;    &lt;/a&gt;&#10;&#10;    &lt;a href=&quot;https://docs.nube.com.py/login&quot; target=&quot;_blank&quot;&gt;&#10;      Client Access &#128272;&#10;    &lt;/a&gt;&#10;&#10;    &lt;a href=&quot;https://wa.me/595981864077?text=Hello!%20I%20need%20support%20with%20nube%20ERP&quot; target=&quot;_blank&quot;&gt;&#10;      Get Help &#128172;&#10;    &lt;/a&gt;&#10;  &lt;/div&gt;&#10;&lt;/section&gt;" xml:space="preserve"><![CDATA[<section style="padding: 40px; background: #f8fafc; border-radius: 16px;">
+  <h2>Recursos para el Cliente</h2>
+
+  <p>
+    Accedé a guías, documentación y canales de soporte para utilizar correctamente tu sistema nube ERP.
+  </p>
+
+  <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
+    <a href="https://docs.nube.com.py" target="_blank">
+      Documentación 📚
+    </a>
+
+    <a href="https://docs.nube.com.py/login" target="_blank">
+      Acceso de Clientes 🔐
+    </a>
+
+    <a href="https://wa.me/595981864077?text=Hola!%20Necesito%20soporte%20con%20nube%20ERP" target="_blank">
+      Contactar Soporte 💬
+    </a>
+  </div>
+</section>]]></value>
+ </row>
+ <row id="200018" trl="N">
+  <value column="Name" original="KPI1">KPI1</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+ <row id="200019" trl="N">
+  <value column="Name" original="KPI2">KPI2</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+  <value column="HTML" original=""/>
+ </row>
+</idempiereTrl>

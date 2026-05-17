@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_InfoWindow">
+ <row id="200000" trl="Y">
+  <value column="Name" original="Product Info">Información de Producto</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Business Partner Info">Información de Tercero</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Order Info">Información de Orden</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Name" original="Invoice Info">Información de Factura</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200004" trl="Y">
+  <value column="Name" original="Shipment Info">Información de Entrega</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Name" original="Payment Info">Información de Pago/Recaudo</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200006" trl="Y">
+  <value column="Name" original="Resource Info">Información de Recurso</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Asset Info">Información de Activo</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200008" trl="N">
+  <value column="Name" original="Generate Shipments (manual)">Generate Shipments (manual)</value>
+  <value column="Description" original="Select and generate shipments">Select and generate shipments</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200011" trl="N">
+  <value column="Name" original="Generate Invoices (manual)">Generate Invoices (manual)</value>
+  <value column="Description" original="Select and generate invoices">Select and generate invoices</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200013" trl="N">
+  <value column="Name" original="Role (All)">Role (All)</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200014" trl="N">
+  <value column="Name" original="Support Users vs Roles">Support Users vs Roles</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200019" trl="N">
+  <value column="Name" original="Period Control Management">Period Control Management</value>
+  <value column="Description" original="Management of Calendars, Years and Periods">Management of Calendars, Years and Periods</value>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200020" trl="N">
+  <value column="Name" original="Payment Into Batch Info">Payment Into Batch Info</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200022" trl="N">
+  <value column="Name" original="Create lines from Shipment/Receipt">Create lines from Shipment/Receipt</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200023" trl="N">
+  <value column="Name" original="Create lines from RMA">Create lines from RMA</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+ <row id="200024" trl="N">
+  <value column="Name" original="Create lines from Invoice">Create lines from Invoice</value>
+  <value column="Description" original=""/>
+  <value column="Help" original=""/>
+ </row>
+</idempiereTrl>

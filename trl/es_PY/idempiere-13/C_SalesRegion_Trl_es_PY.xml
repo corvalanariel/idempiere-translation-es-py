@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_SalesRegion">
+ <row id="101" trl="N">
+  <value column="Name" original="East">East</value>
+  <value column="Description" original=""/>
+ </row>
+ <row id="102" trl="N">
+  <value column="Name" original="West">West</value>
+  <value column="Description" original=""/>
+ </row>
+ <row trl="Y" uuid="019e12ad-33e7-7623-adf1-5be65b6c3ee0">
+  <value column="Name" original="ESTE">ESTE</value>
+  <value column="Description" original=""/>
+ </row>
+ <row trl="Y" uuid="019e274e-11e7-717a-a682-5ff4e6e5a697">
+  <value column="Name" original="CENTRAL">CENTRAL</value>
+  <value column="Description" original=""/>
+ </row>
+ <row trl="Y" uuid="019e290d-cbd2-7049-9632-8edea24736e9">
+  <value column="Name" original="INTERIOR">INTERIOR</value>
+  <value column="Description" original=""/>
+ </row>
+ <row trl="Y" uuid="019e290e-77e6-79cf-9002-264daa00a223">
+  <value column="Name" original="EXTERIOR">EXTERIOR</value>
+  <value column="Description" original=""/>
+ </row>
+</idempiereTrl>

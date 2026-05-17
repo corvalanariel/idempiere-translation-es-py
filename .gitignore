@@ -1,0 +1,20 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos comprimidos generados
+*.zip
+*.tar.gz

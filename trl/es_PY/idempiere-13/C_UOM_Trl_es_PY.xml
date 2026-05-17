@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_UOM">
+ <row id="100" trl="Y">
+  <value column="Name" original="Each">Unidad</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Ea ">Un </value>
+ </row>
+ <row id="101" trl="Y">
+  <value column="Name" original="Hour">Hora</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="h  ">h  </value>
+ </row>
+ <row id="102" trl="Y">
+  <value column="Name" original="Day">Día</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="d  ">d  </value>
+ </row>
+ <row id="103" trl="Y">
+  <value column="Name" original="Minutes">Minutos</value>
+  <value column="Description" original="(lowest unit for resource assignments)">(unidad mínima para asignación de recursos)</value>
+  <value column="UOMSymbol" original="m  ">m  </value>
+ </row>
+ <row id="104" trl="Y">
+  <value column="Name" original="Work Day">Día de trabajo</value>
+  <value column="Description" original="8 hour">8 Horas</value>
+  <value column="UOMSymbol" original="D  ">D  </value>
+ </row>
+ <row id="105" trl="Y">
+  <value column="Name" original="Week">Semana</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="w  ">s  </value>
+ </row>
+ <row id="106" trl="Y">
+  <value column="Name" original="Month">Mes</value>
+  <value column="Description" original="30 days">30 días</value>
+  <value column="UOMSymbol" original="m  ">m  </value>
+ </row>
+ <row id="107" trl="Y">
+  <value column="Name" original="Working Month">Mes de Trabajo</value>
+  <value column="Description" original="20 days">20 días</value>
+  <value column="UOMSymbol" original="M  ">M  </value>
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="Year">Año</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="y  ">a  </value>
+ </row>
+ <row id="109" trl="N">
+  <value column="Name" original="6-Pack">6-Pack</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="6Pk">6Pk</value>
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="Mililiter">Mililiter</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ml">ml</value>
+ </row>
+ <row id="50001" trl="N">
+  <value column="Name" original="kilogram">kilogram</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Kg">Kg</value>
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="milligram">milligram</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mg">mg</value>
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="litre">litre</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="L">L</value>
+ </row>
+ <row id="200001" trl="N">
+  <value column="Name" original="Centimeter">Centimeter</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cm">cm</value>
+ </row>
+ <row trl="Y" uuid="019e14df-78b7-783f-82b0-67a62466c5b8">
+  <value column="Name" original="Degree">Grado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="°">°</value>
+ </row>
+ <row trl="Y" uuid="019e14e0-79fc-7996-a852-7aed5a8b2da3">
+  <value column="Name" original="Radian">Radián</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="rad">rad</value>
+ </row>
+ <row trl="Y" uuid="019e14e1-ce13-7c00-a737-0774341617b2">
+  <value column="Name" original="Gradian">Gradián</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="gon">gon</value>
+ </row>
+ <row trl="Y" uuid="019e1e22-a8c8-7bb3-9dd4-9a43e7cbd030">
+  <value column="Name" original="Minute of Arc">Minuto de Arco</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="′">′</value>
+ </row>
+ <row trl="Y" uuid="019e1e23-807d-7e3e-b93b-4d1702323186">
+  <value column="Name" original="Second of Arc">Segundo de Arco</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="″">″</value>
+ </row>
+ <row trl="Y" uuid="019e1e27-4791-71df-83f9-3a6f87f90db5">
+  <value column="Name" original="Square Meter">Metro Cuadrado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="m²">m²</value>
+ </row>
+ <row trl="Y" uuid="019e1e28-0b1f-74a6-8d9f-685bacaef8cd">
+  <value column="Name" original="Square Centimeter">Centímetro Cuadrado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cm²">cm²</value>
+ </row>
+ <row trl="Y" uuid="019e1e2a-5267-7fbc-ba98-d2de6121d302">
+  <value column="Name" original="Square Millimeter">Milímetro Cuadrado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mm²">mm²</value>
+ </row>
+ <row trl="Y" uuid="019e1e2d-1ec3-7a2a-987e-8dbccb86e208">
+  <value column="Name" original="Square Kilometer">Kilómetro Cuadrado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="km²">km²</value>
+ </row>
+ <row trl="Y" uuid="019e1e2d-e734-70ca-bdb8-97ec2a0e9453">
+  <value column="Name" original="Hectare">Hectárea</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ha">ha</value>
+ </row>
+ <row trl="Y" uuid="019e1e2e-d8cc-7410-8a37-2b5a1462a9ec">
+  <value column="Name" original="Acre">Acre</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="acre">acre</value>
+ </row>
+ <row trl="Y" uuid="019e1e2f-e531-7be8-86b9-43215b6c7e8c">
+  <value column="Name" original="Square Foot">Pie Cuadrado</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ft²">ft²</value>
+ </row>
+ <row trl="Y" uuid="019e1e68-16b6-7771-8825-1e21a18ce2b7">
+  <value column="Name" original="Bit">Bit</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="bit">bit</value>
+ </row>
+ <row trl="Y" uuid="019e1e68-d512-7ac0-b112-30099a3593bd">
+  <value column="Name" original="Byte">Byte</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="B">B</value>
+ </row>
+ <row trl="Y" uuid="019e1e69-c73b-75fc-a080-caf931fdd1b7">
+  <value column="Name" original="Kilobyte">Kilobyte</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="KB">KB</value>
+ </row>
+ <row trl="Y" uuid="019e1e6a-c840-79b7-ad57-1b6587a7ad0b">
+  <value column="Name" original="Megabyte">Megabyte</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MB">MB</value>
+ </row>
+ <row trl="Y" uuid="019e1e6b-6f20-729b-a894-7c89cfc4572d">
+  <value column="Name" original="Gigabyte">Gigabyte</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="GB">GB</value>
+ </row>
+ <row trl="Y" uuid="019e1e6b-e9e6-7614-8521-9cca9e1f28ac">
+  <value column="Name" original="Terabyte">Terabyte</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="TB">TB</value>
+ </row>
+ <row trl="Y" uuid="019e1e6c-9f23-7114-accf-f15578590ce0">
+  <value column="Name" original="Kilogram per Cubic Meter">Kilogramo por Metro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kg/m³">kg/m³</value>
+ </row>
+ <row trl="Y" uuid="019e1e6e-4317-78c4-89f4-a58b432cb1bb">
+  <value column="Name" original="Gram per Cubic Meter">Gramo por Metro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="g/m³">g/m³</value>
+ </row>
+ <row trl="Y" uuid="019e1e6f-23c4-7372-a4c2-c4b7023dda3a">
+  <value column="Name" original="Gram per Cubic Centimeter">Gramo por Centímetro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="g/cm³">g/cm³</value>
+ </row>
+ <row trl="Y" uuid="019e1e72-4f24-7526-8bea-1390000ad051">
+  <value column="Name" original="Kilogram per Liter">Kilogramo por Litro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kg/L">kg/L</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cca5-7e92-94bb-31ef24f26b7b">
+  <value column="Name" original="Gram per Liter">Gramo por Litro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="g/L">g/L</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ccc2-786d-8f12-12a65460d5e4">
+  <value column="Name" original="Joule">Julio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="J">J</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ccdb-7509-8fdd-41835e6a880d">
+  <value column="Name" original="Kilojoule">Kilojulio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kJ">kJ</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ccf5-7376-b58a-8f5a7f715402">
+  <value column="Name" original="Megajoule">Megajulio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MJ">MJ</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd0f-760b-afbb-a8a1e647f502">
+  <value column="Name" original="Kilowatt Hour">Kilovatio Hora</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kWh">kWh</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd1c-78b0-9b1f-fe3a5b376d7c">
+  <value column="Name" original="Calorie">Caloría</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cal">cal</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd28-7b7c-b5e6-c80a9bb8679f">
+  <value column="Name" original="Kilocalorie">Kilocaloría</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kcal">kcal</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd34-70d8-bc64-16e1a6ba690c">
+  <value column="Name" original="BTU">BTU</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="BTU">BTU</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd3f-7a35-b647-1bc129e23d50">
+  <value column="Name" original="Hertz">Hercio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Hz">Hz</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd4a-7b83-b2f4-66ee28162916">
+  <value column="Name" original="Kilohertz">Kilohercio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kHz">kHz</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd55-7dd2-b402-a8cd394bae82">
+  <value column="Name" original="Megahertz">Megahercio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MHz">MHz</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd60-776c-89cd-3c5ec708eb82">
+  <value column="Name" original="Gigahertz">Gigahercio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="GHz">GHz</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd75-7f51-aad1-2b9381b1628c">
+  <value column="Name" original="Revolution per Minute">Revolución por Minuto</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="rpm">rpm</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd84-7db7-803c-a30339cad60d">
+  <value column="Name" original="Newton">Newton</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="N">N</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd90-7e6f-b22e-d4bab519886a">
+  <value column="Name" original="Kilonewton">Kilonewton</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kN">kN</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cd9b-78b4-a0ea-a2f3868f2fd9">
+  <value column="Name" original="Dyne">Dina</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="dyn">dyn</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdb6-7455-bae0-0b371bb8f643">
+  <value column="Name" original="Kilogram Force">Kilogramo Fuerza</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kgf">kgf</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdc2-751d-8c1f-10c7fc7e25c6">
+  <value column="Name" original="Pound Force">Libra Fuerza</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="lbf">lbf</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdcd-79ff-a164-35dd1dac9cdf">
+  <value column="Name" original="Meter">Metro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="m">m</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdd7-7b84-a5ea-0d235a5ebeb3">
+  <value column="Name" original="Centimeter">Centímetro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cm">cm</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cde1-792a-befe-8e70373dd728">
+  <value column="Name" original="Millimeter">Milímetro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mm">mm</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdec-743c-b53c-9161e351ae97">
+  <value column="Name" original="Kilometer">Kilómetro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="km">km</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cdf6-7783-ac23-8ddd79753866">
+  <value column="Name" original="Inch">Pulgada</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="in">in</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce0c-72af-8248-c71e20ddd5bf">
+  <value column="Name" original="Foot">Pie</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ft">ft</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce16-7648-9298-a18b10c26261">
+  <value column="Name" original="Yard">Yarda</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="yd">yd</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce21-7283-86b2-ef4bc9f8822d">
+  <value column="Name" original="Teaspoon">Cucharadita</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cdta">cdta</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce2b-765e-8cba-4bfc4c645af1">
+  <value column="Name" original="Tablespoon">Cucharada</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cda">cda</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce35-779d-8b70-db38f72e8a54">
+  <value column="Name" original="Cup">Taza</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="taza">taza</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce40-7400-93d1-a472040fc175">
+  <value column="Name" original="Pinch">Pizca</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="pizca">pizca</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce4b-7f5d-a5b2-0333bd102039">
+  <value column="Name" original="Dash">Toque</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="dash">dash</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce58-7628-a708-e9df5c7f815a">
+  <value column="Name" original="Pair">Par</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="par">par</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce63-70f2-86c2-77ff0ef1813f">
+  <value column="Name" original="Dozen">Docena</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="doc">doc</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce6f-7887-a91a-7c4715769375">
+  <value column="Name" original="Box">Caja</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="caja">caja</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce7a-7d8e-a8c7-bd6c40478404">
+  <value column="Name" original="Bag">Bolsa</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="bolsa">bolsa</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce85-73ac-8381-5a926e4c17d8">
+  <value column="Name" original="Package">Paquete</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="paq">paq</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce90-7855-9e5c-c535177ffa61">
+  <value column="Name" original="Roll">Rollo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="rollo">rollo</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ce9b-7c9f-8077-963967f15b0f">
+  <value column="Name" original="Set">Juego</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="jgo">jgo</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cea6-7d4e-bd2b-6318aae74ea6">
+  <value column="Name" original="Service">Servicio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="serv">serv</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ceb2-7c80-9261-5ea96f57ca6e">
+  <value column="Name" original="Lot">Lote</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="lote">lote</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cebd-7a02-a2e3-f6d53ad90053">
+  <value column="Name" original="Kilogram">Kilogramo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kg">kg</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ceca-7bf2-8b01-1946ca6364fd">
+  <value column="Name" original="Gram">Gramo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="g">g</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ced5-7b10-a4a2-c4c1918f83b6">
+  <value column="Name" original="Milligram">Miligramo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mg">mg</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cee0-7e0c-b745-a125cdbd11b7">
+  <value column="Name" original="Metric Ton">Tonelada Métrica</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="t">t</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-ceeb-7440-a58b-ae414cc7d92e">
+  <value column="Name" original="Quintal">Quintal</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="qq">qq</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cef6-74e8-a718-24fa4d2e6547">
+  <value column="Name" original="Pound">Libra</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="lb">lb</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf01-7f57-a493-38e945c4398e">
+  <value column="Name" original="Ounce">Onza</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="oz">oz</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf0d-7c47-95ba-d246ee10b368">
+  <value column="Name" original="Watt">Vatio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="W">W</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf18-7291-9783-de6f1ba7efad">
+  <value column="Name" original="Kilowatt">Kilovatio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kW">kW</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf24-703d-b29d-c612be71bf50">
+  <value column="Name" original="Megawatt">Megavatio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MW">MW</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf31-7871-af6f-c1a61790f05f">
+  <value column="Name" original="Horsepower">Caballo de Fuerza</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="HP">HP</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf3d-75e6-b14d-9ac12ff3f19e">
+  <value column="Name" original="Volt-Ampere">Voltio-Amperio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="VA">VA</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf48-739a-a93c-0459ed9e2b97">
+  <value column="Name" original="Kilovolt-Ampere">Kilovoltio-Amperio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kVA">kVA</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf53-7dd4-9624-c88c1bf269bb">
+  <value column="Name" original="Pascal">Pascal</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Pa">Pa</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf5e-79d3-ae20-b5e8a0bcdfab">
+  <value column="Name" original="Kilopascal">Kilopascal</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kPa">kPa</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf69-7656-9b55-8747b81fb815">
+  <value column="Name" original="Megapascal">Megapascal</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MPa">MPa</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf73-7c11-859b-693fc9601534">
+  <value column="Name" original="Bar">Bar</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="bar">bar</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf7e-7c65-9393-58d098a46640">
+  <value column="Name" original="Millibar">Milibar</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mbar">mbar</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf89-719d-af8d-1801a9ba3753">
+  <value column="Name" original="PSI">PSI</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="psi">psi</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf93-792b-9286-2edc25adb617">
+  <value column="Name" original="Atmosphere">Atmósfera</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="atm">atm</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cf9f-73c6-8c7c-776ae214f35e">
+  <value column="Name" original="Degree Celsius">Grado Celsius</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="°C">°C</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfac-74c6-abdf-5e001a13c307">
+  <value column="Name" original="Degree Fahrenheit">Grado Fahrenheit</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="°F">°F</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfbc-7c10-abc1-741c5d6cf2c1">
+  <value column="Name" original="Kelvin">Kelvin</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="K">K</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfc7-7b6b-a5bd-c06728570900">
+  <value column="Name" original="Millisecond">Milisegundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ms">ms</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfd2-7e51-b597-1a5ead2baae4">
+  <value column="Name" original="Second">Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="s">s</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfdc-7ed7-8814-26fcf9233da1">
+  <value column="Name" original="Quarter">Trimestre</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="trim">trim</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfe9-7a32-bf6e-c20b006c84b4">
+  <value column="Name" original="Semester">Semestre</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="sem">sem</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cff4-718c-b5d0-0c5219953101">
+  <value column="Name" original="Newton Meter">Newton Metro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="N·m">N·m</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-cfff-7c48-955a-f95da65765ef">
+  <value column="Name" original="Kilonewton Meter">Kilonewton Metro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kN·m">kN·m</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d00a-7f74-b384-5234cb17a61b">
+  <value column="Name" original="Kilogram Force Meter">Kilogramo Fuerza Metro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kgf·m">kgf·m</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d015-7110-9b1d-a3bf0605b151">
+  <value column="Name" original="Pound Foot">Libra Pie</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="lb·ft">lb·ft</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d020-7ce2-8e2b-163eaa99765f">
+  <value column="Name" original="Pound Inch">Libra Pulgada</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="lb·in">lb·in</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d031-7366-b6b5-58f10a478ed1">
+  <value column="Name" original="Meter per Second">Metro por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="m/s">m/s</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d03c-7fab-9a4b-a2a1d9de2770">
+  <value column="Name" original="Kilometer per Hour">Kilómetro por Hora</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="km/h">km/h</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d047-700f-811d-10d6ff5f5a23">
+  <value column="Name" original="Mile per Hour">Milla por Hora</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mph">mph</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d053-783f-94f5-91243ac0254a">
+  <value column="Name" original="Foot per Second">Pie por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ft/s">ft/s</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d05d-7628-862f-0bdf803addae">
+  <value column="Name" original="Knot">Nudo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kn">kn</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d068-7751-98e3-db34b38b22af">
+  <value column="Name" original="Bit per Second">Bit por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="bps">bps</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d072-7336-8c9e-43b0dc99a61b">
+  <value column="Name" original="Kilobit per Second">Kilobit por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="kbps">kbps</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d07d-7c69-be9d-67b242857902">
+  <value column="Name" original="Megabit per Second">Megabit por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Mbps">Mbps</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d089-77ce-b1e6-a6758609ca9e">
+  <value column="Name" original="Gigabit per Second">Gigabit por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="Gbps">Gbps</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d093-7bd3-98a9-08d6bcf0a364">
+  <value column="Name" original="Megabyte per Second">Megabyte por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="MB/s">MB/s</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d09e-73be-97be-05e2d66aa074">
+  <value column="Name" original="Gigabyte per Second">Gigabyte por Segundo</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="GB/s">GB/s</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0b3-74bb-be44-19aadfa868a9">
+  <value column="Name" original="Liter">Litro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="L">L</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0bf-7688-b390-f1b1cb7fa6de">
+  <value column="Name" original="Milliliter">Mililitro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mL">mL</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0ca-7595-b508-c10c6bdf9691">
+  <value column="Name" original="Centiliter">Centilitro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cL">cL</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0d5-7b54-811d-947ccb8efca5">
+  <value column="Name" original="Deciliter">Decilitro</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="dL">dL</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0e0-718c-913a-80855c4468dd">
+  <value column="Name" original="Cubic Meter">Metro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="m³">m³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0ec-7850-a8e1-09028e7866bc">
+  <value column="Name" original="Gallon">Galón</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="gal">gal</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d0f7-7964-b2a6-23fc86cc0181">
+  <value column="Name" original="Quart">Cuarto de Galón</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="qt">qt</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d102-7c07-8a30-f85c02732c9f">
+  <value column="Name" original="Pint">Pinta</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="pt">pt</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d10d-7547-b066-7f063b7ca863">
+  <value column="Name" original="Cubic Decimeter">Decímetro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="dm³">dm³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d118-7108-a408-2a525e98bd74">
+  <value column="Name" original="Cubic Centimeter">Centímetro Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="cm³">cm³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d123-78ea-bed7-3c56af529731">
+  <value column="Name" original="Cubic Foot">Pie Cúbico</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="ft³">ft³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d12e-7cda-b6dd-387bc1da6740">
+  <value column="Name" original="Cubic Inch">Pulgada Cúbica</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="in³">in³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d13a-7b2c-81e7-36946c4802af">
+  <value column="Name" original="Cubic Yard">Yarda Cúbica</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="yd³">yd³</value>
+ </row>
+ <row trl="Y" uuid="019e1e7e-d146-7a31-ac86-c0335ba59aa4">
+  <value column="Name" original="Bushel">Bushel</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="bu">bu</value>
+ </row>
+ <row trl="Y" uuid="019e1ebd-8e7b-76fb-8ff1-aa4398c634b7">
+  <value column="Name" original="Ten">Decena</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="dz">dz</value>
+ </row>
+ <row trl="Y" uuid="019e1ed4-f8b9-79db-b6d2-a9952f497cd2">
+  <value column="Name" original="Millimeter of Mercury">Milímetro de Mercurio</value>
+  <value column="Description" original=""/>
+  <value column="UOMSymbol" original="mmHg">mmHg</value>
+ </row>
+</idempiereTrl>
