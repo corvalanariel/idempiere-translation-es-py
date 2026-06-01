@@ -249,11 +249,8 @@ Este proyecto se encuentra en desarrollo activo y mejora continua.
 - Correcciones gramaticales o técnicas
 - Ajustes propios del Diccionario de Aplicación
 
-## Autor
+## Author
 
-Ariel Corvalán
-Founder of nube ERP
-
-### Sitio web:
-
+Ariel Corvalán  
+Founder of nube ERP  
 https://nube.com.py
