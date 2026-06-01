@@ -68,11 +68,11 @@ Este repositorio cubre los siguientes puntos:
 | Textos en inglés              | Revisión y traducción de textos pendientes.                             |
 | Consistencia                  | Aplicación uniforme de reglas para títulos, descripciones y acrónimos.  |
 
-#Reglas de traducción
+## Reglas de traducción
 
 Las traducciones siguen reglas definidas para mantener una experiencia clara, profesional y consistente dentro de iDempiere.
 
-#Reglas generales
+## Reglas generales
 
 Los títulos y nombres usan mayúscula inicial en cada palabra principal.
 Los artículos, preposiciones y conjunciones permanecen en minúscula cuando aparecen dentro de títulos.
@@ -82,7 +82,7 @@ Los términos en inglés se traducen cuando existe un equivalente claro en espa�
 Los términos técnicos se mantienen consistentes entre módulos.
 Los textos se revisan considerando gramática, claridad y uso funcional.
 
-#Formato para títulos y nombres
+## Formato para títulos y nombres
 
 Aplica principalmente a campos como:
 
@@ -101,7 +101,7 @@ Grupo Empresarial
 Flujo de Trabajo
 Representante de Ventas
 
-#Criterios aplicados
+## Criterios aplicados
 
 Se usa mayúscula inicial en cada palabra principal.
 Artículos, preposiciones y conjunciones permanecen en minúscula cuando están dentro del título.
@@ -109,7 +109,7 @@ No se utiliza punto final.
 Los acrónimos se mantienen completamente en mayúsculas.
 Formato para descripciones y ayudas
 
-#Aplica principalmente a campos como:
+## Aplica principalmente a campos como:
 
 Description
 Help
@@ -123,9 +123,9 @@ Se evita la traducción literal cuando afecta la comprensión.
 Se prioriza un lenguaje claro para usuarios ERP.
 Terminología utilizada
 
-#Algunos términos fueron definidos como estándar para mantener consistencia en todos los módulos.
+## Algunos términos fueron definidos como estándar para mantener consistencia en todos los módulos.
 
-## Terminología funcional utilizada
+### Terminología funcional utilizada
 
 La traducción `es_PY` define una terminología base para mantener una experiencia uniforme dentro de iDempiere.  
 Estos términos se aplican de forma consistente en ventanas, campos, procesos, informes, menús, descripciones y textos de ayuda.
@@ -235,11 +235,11 @@ Este repositorio contiene únicamente archivos de traducción y documentación r
 - Archivos de ambientes productivos.
 - Parámetros internos de servidores o instalaciones reales.
 
-### Estado del proyecto
+## Estado del proyecto
 
 Este proyecto se encuentra en desarrollo activo y mejora continua.
 
-## Las traducciones pueden ser ajustadas progresivamente según:
+### Las traducciones pueden ser ajustadas progresivamente según:
 
 - Nuevas versiones de iDempiere
 - Necesidades funcionales
@@ -249,11 +249,11 @@ Este proyecto se encuentra en desarrollo activo y mejora continua.
 - Correcciones gramaticales o técnicas
 - Ajustes propios del Diccionario de Aplicación
 
-### Autor
+## Autor
 
 Ariel Corvalán
 Founder of nube ERP
 
-## Sitio web:
+### Sitio web:
 
 https://nube.com.py
