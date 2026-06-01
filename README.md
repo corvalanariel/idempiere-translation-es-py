@@ -218,7 +218,8 @@ necesidades funcionales;
 criterios de uso local;
 revisión de usuarios finales;
 mejoras de consistencia terminológica.
-Autor
+
+#Autor
 
 Ariel Corvalán
 Founder of nube ERP
