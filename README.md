@@ -173,55 +173,87 @@ Para asegurar una traducción clara y coherente en todo el sistema, se aplican l
 | Descripción | `Define la lista de precios utilizada para ventas o compras.` |
 | Texto de ayuda | `Seleccione la lista de precios que será utilizada para calcular los importes del documento.` |
 
-Para asegurar una traducción uniforme, se aplican los siguientes criterios:
+## Criterios de consistencia
 
-Los términos funcionales se mantienen iguales en todos los módulos.
-Los textos técnicos se traducen solo cuando existe un equivalente claro en español.
-Los acrónimos se conservan en mayúsculas.
-Los textos en inglés son revisados y traducidos cuando corresponde.
-Las descripciones se redactan con lenguaje claro para usuarios ERP.
-Se evita mezclar estilos entre títulos, nombres, descripciones y ayudas.
-Se revisan errores gramaticales, puntuación y claridad del texto.
-Se mantiene una terminología alineada al uso funcional del sistema.
-Importación en iDempiere
+Para asegurar una traducción uniforme en todo el repositorio, se aplican criterios de consistencia funcional, técnica y gramatical.
 
-Pasos generales para importar las traducciones:
+### Consistencia terminológica
 
-Crear o habilitar el idioma es_PY en iDempiere.
-Importar los archivos XML desde la carpeta correspondiente.
-Sincronizar las traducciones cuando sea requerido.
-Limpiar la caché del sistema.
-Cerrar sesión.
-Ingresar nuevamente utilizando el idioma Español Paraguay.
+- Los términos funcionales se mantienen iguales en todos los módulos.
+- Se evita utilizar diferentes traducciones para un mismo concepto.
+- La terminología se alinea al uso funcional del sistema ERP.
+- Se prioriza la claridad para usuarios finales antes que una traducción literal.
 
-La guía detallada de importación se encuentra en:
+### Consistencia técnica
 
-docs/importacion-idempiere.md
-Nota de seguridad
+- Los textos técnicos se traducen solo cuando existe un equivalente claro en español.
+- Los acrónimos se conservan en mayúsculas.
+- Los términos propios de iDempiere se mantienen consistentes entre ventanas, campos, procesos e informes.
+- Los textos en inglés son revisados y traducidos cuando corresponde.
 
-Este repositorio no incluye:
+### Consistencia de estilo
 
-Datos de clientes.
-Credenciales.
-Archivos privados de configuración.
-Información sensible de producción.
-Backups de base de datos.
-Archivos de ambiente productivo.
-Estado del proyecto
+- Los títulos y nombres usan mayúscula inicial en cada palabra principal.
+- Las descripciones y ayudas usan formato de oración.
+- Se evita mezclar estilos entre `Name`, `PrintName`, `Description` y `Help`.
+- Se revisan errores gramaticales, puntuación, claridad y coherencia del texto.
+
+---
+
+## Importación en iDempiere
+
+Para utilizar estas traducciones en iDempiere, se deben importar los archivos XML correspondientes al idioma **Español Paraguay (`es_PY`)**.
+
+### Pasos generales
+
+1. Crear o habilitar el idioma `es_PY` en iDempiere.
+2. Importar los archivos XML desde la carpeta:
+
+   ```text
+   trl/es_PY/idempiere-13/
+   ```
+3. Sincronizar las traducciones cuando sea requerido.
+4. Limpiar la caché del sistema.
+5. Cerrar la sesión activa.
+6. Ingresar nuevamente utilizando el idioma Español Paraguay.
+
+## La guía detallada de importación se encuentra en:
+   ```text
+   docs/importacion-idempiere.md
+   ```
+### Nota de seguridad
+
+Este repositorio contiene únicamente archivos de traducción y documentación relacionada.
+
+## No se incluyen:
+
+- Datos de clientes.
+- Credenciales.
+- Archivos privados de configuración.
+- Información sensible de producción.
+- Backups de base de datos.
+- Archivos de ambientes productivos.
+- Parámetros internos de servidores o instalaciones reales.
+
+### Estado del proyecto
 
 Este proyecto se encuentra en desarrollo activo y mejora continua.
 
-Las traducciones pueden ser ajustadas progresivamente según:
+## Las traducciones pueden ser ajustadas progresivamente según:
 
-nuevas versiones de iDempiere;
-necesidades funcionales;
-criterios de uso local;
-revisión de usuarios finales;
-mejoras de consistencia terminológica.
+- Nuevas versiones de iDempiere
+- Necesidades funcionales
+- Criterios de uso local
+- Revisión de usuarios finales
+- Mejoras de consistencia terminológica
+- Correcciones gramaticales o técnicas
+- Ajustes propios del Diccionario de Aplicación
 
-#Autor
+### Autor
 
 Ariel Corvalán
 Founder of nube ERP
+
+## Sitio web:
 
 https://nube.com.py
