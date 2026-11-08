@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_InfoColumn">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_InfoColumn">
  <row id="200005" trl="Y">
   <value column="Name" original="Vendor">Proveedor</value>
   <value column="Description" original="Current Vendor">Proveedor Actual</value>
@@ -14,8 +14,8 @@
   <value column="Placeholder" original=""/>
   <value column="Placeholder2" original=""/>
  </row>
- <row id="200155" trl="N">
-  <value column="Name" original="Role Name">Role Name</value>
+ <row id="200155" trl="Y">
+  <value column="Name" original="Role Name">Nombre del Rol</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>

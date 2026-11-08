@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="M_PriceList">
- <row id="101" trl="N">
-  <value column="Name" original="Standard">Standard</value>
-  <value column="Description" original="This is the sales price list and we create it based on the Purchase list">This is the sales price list and we create it based on the Purchase list</value>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="M_PriceList">
+ <row id="101" trl="Y">
+  <value column="Name" original="Standard">Estándar</value>
+  <value column="Description" original="This is the sales price list and we create it based on the Purchase list">Esta es la lista de precios de venta y se crea a partir de la lista de compra</value>
  </row>
- <row id="102" trl="N">
-  <value column="Name" original="Purchase">Purchase</value>
-  <value column="Description" original="This list is created first - the &quot;root&quot; of the other price lists">This list is created first - the "root" of the other price lists</value>
+ <row id="102" trl="Y">
+  <value column="Name" original="Purchase">Compra</value>
+  <value column="Description" original="This list is created first - the &quot;root&quot; of the other price lists">Esta lista se crea primero; es la raíz de las demás listas de precios</value>
  </row>
- <row id="103" trl="N">
-  <value column="Name" original="Export">Export</value>
-  <value column="Description" original="Export Prices in EUR">Export Prices in EUR</value>
+ <row id="103" trl="Y">
+  <value column="Name" original="Export">Exportar</value>
+  <value column="Description" original="Export Prices in EUR">Precios de Exportación en EUR</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Import">Import</value>
-  <value column="Description" original="Import Prices in EUR">Import Prices in EUR</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Import">Importar</value>
+  <value column="Description" original="Import Prices in EUR">Precios de Importación en EUR</value>
  </row>
- <row trl="N" uuid="019e12ad-349d-72e3-b668-bc4efd797275">
+ <row trl="N" uuid="01a187e1-2ffa-7590-8ce9-ae3a2da85722">
   <value column="Name" original="Estándar">Estándar</value>
   <value column="Description" original=""/>
  </row>

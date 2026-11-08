@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Currency">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Currency">
  <row id="100" trl="Y">
   <value column="Description" original="US Dollar">Dólar EE.UU.</value>
   <value column="CurSymbol" original="$">US$</value>
@@ -66,23 +66,23 @@
  </row>
  <row id="118" trl="Y">
   <value column="Description" original="Argentine Peso">Peso Argentino</value>
-  <value column="CurSymbol" original="$">$</value>
+  <value column="CurSymbol" original="$">US$</value>
  </row>
  <row id="120" trl="Y">
   <value column="Description" original="Australian Dollar">Dólar Australiano</value>
-  <value column="CurSymbol" original="$">$</value>
+  <value column="CurSymbol" original="$">US$</value>
  </row>
  <row id="121" trl="Y">
   <value column="Description" original="New Zealand Dollar">Dólar de Nueva Zelanda</value>
-  <value column="CurSymbol" original="$">$</value>
+  <value column="CurSymbol" original="$">US$</value>
  </row>
  <row id="127" trl="Y">
   <value column="Description" original="Liberian Dollar">Dólar Liberiano</value>
-  <value column="CurSymbol" original="$">$</value>
+  <value column="CurSymbol" original="$">US$</value>
  </row>
  <row id="130" trl="Y">
   <value column="Description" original="Mexican Peso">Peso Mexicano</value>
-  <value column="CurSymbol" original="$">$</value>
+  <value column="CurSymbol" original="$">US$</value>
  </row>
  <row id="142" trl="Y">
   <value column="Description" original="Peso Uruguayo">Peso Uruguayo</value>
@@ -406,7 +406,7 @@
  </row>
  <row id="270" trl="Y">
   <value column="Description" original="Nakfa">Nakfa</value>
-  <value column="CurSymbol" original="KR">KR</value>
+  <value column="CurSymbol" original="KR">Nfa</value>
  </row>
  <row id="271" trl="Y">
   <value column="Description" original="Lek">Lek</value>
@@ -696,8 +696,32 @@
   <value column="Description" original="Serbian Dinar">Dinar Serbio</value>
   <value column="CurSymbol" original="RSD">RSD</value>
  </row>
- <row id="200000" trl="N">
-  <value column="Description" original="South Sudanese pound">South Sudanese pound</value>
+ <row id="200000" trl="Y">
+  <value column="Description" original="South Sudanese pound">Libra Sursudanesa</value>
   <value column="CurSymbol" original="SS£">SS£</value>
+ </row>
+ <row id="200002" trl="Y">
+  <value column="Description" original="Chilean Unidad de Fomento">Unidad de Fomento Chilena</value>
+  <value column="CurSymbol" original="UF">UF</value>
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Description" original="Colombian Unidad de Valor Real">Unidad de Valor Real Colombiana</value>
+  <value column="CurSymbol" original="UVR">UVR</value>
+ </row>
+ <row id="200004" trl="Y">
+  <value column="Description" original="Mexican Unidad de Inversión">Unidad de Inversión Mexicana</value>
+  <value column="CurSymbol" original="UDI">UDI</value>
+ </row>
+ <row id="200005" trl="Y">
+  <value column="Description" original="Bolivian Mvdol">Mvdol Boliviano</value>
+  <value column="CurSymbol" original="Mvdol">Mvdol</value>
+ </row>
+ <row id="200006" trl="Y">
+  <value column="Description" original="Uruguayan Indexed Unit">Unidad Indexada Uruguaya</value>
+  <value column="CurSymbol" original="UI">UI</value>
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Description" original="Uruguayan Nominal Wage Index Unit">Unidad Previsional Uruguaya</value>
+  <value column="CurSymbol" original="UP">UP</value>
  </row>
 </idempiereTrl>

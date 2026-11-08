@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_PaymentTerm">
- <row id="100" trl="N">
-  <value column="Name" original="30 Net">30 Net</value>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_PaymentTerm">
+ <row id="100" trl="Y">
+  <value column="Name" original="30 Net">30 Neto</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="105" trl="N">
-  <value column="Name" original="Immediate">Immediate</value>
+ <row id="105" trl="Y">
+  <value column="Name" original="Immediate">Inmediato</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="106" trl="N">
-  <value column="Name" original="2%10 Net 30">2%10 Net 30</value>
-  <value column="Description" original="2% discount if paid in 10 days, net due in 30 days">2% discount if paid in 10 days, net due in 30 days</value>
-  <value column="DocumentNote" original="Payment Term Note: Long Term Contracts are eligible for payment discounts.">Payment Term Note: Long Term Contracts are eligible for payment discounts.</value>
+ <row id="106" trl="Y">
+  <value column="Name" original="2%10 Net 30">2%10 Neto 30</value>
+  <value column="Description" original="2% discount if paid in 10 days, net due in 30 days">2% descuento si pago en 10 días, deuda neta en 30 días</value>
+  <value column="DocumentNote" original="Payment Term Note: Long Term Contracts are eligible for payment discounts.">Nota Condición de Pago: Contratos a Largo Plazo son elegibles para descuentos por pronto pago.</value>
  </row>
- <row id="107" trl="N">
-  <value column="Name" original="30 Days Net">30 Days Net</value>
+ <row id="107" trl="Y">
+  <value column="Name" original="30 Days Net">30 Días Neto</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row id="108" trl="N">
-  <value column="Name" original="50% Immediate - 50% in 30 days">50% Immediate - 50% in 30 days</value>
+ <row id="108" trl="Y">
+  <value column="Name" original="50% Immediate - 50% in 30 days">50% Inmediato - 50% en 30 Días</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-34de-7ad0-8e3f-5db26a099bc7">
-  <value column="Name" original="Immediate">Immediate</value>
+ <row trl="Y" uuid="01a187e1-3062-74d7-8eec-46a936cbb781">
+  <value column="Name" original="Immediate">Inmediato</value>
   <value column="Description" original=""/>
   <value column="DocumentNote" original=""/>
  </row>

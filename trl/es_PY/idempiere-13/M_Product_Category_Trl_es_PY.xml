@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="M_Product_Category">
- <row id="105" trl="N">
-  <value column="Name" original="Standard">Standard</value>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="M_Product_Category">
+ <row id="105" trl="Y">
+  <value column="Name" original="Standard">Estándar</value>
   <value column="Description" original=""/>
  </row>
- <row id="106" trl="N">
-  <value column="Name" original="Trees">Trees</value>
+ <row id="106" trl="Y">
+  <value column="Name" original="Trees">Árboles</value>
   <value column="Description" original=""/>
  </row>
- <row id="107" trl="N">
-  <value column="Name" original="Bushes">Bushes</value>
+ <row id="107" trl="Y">
+  <value column="Name" original="Bushes">Arbustos</value>
   <value column="Description" original=""/>
  </row>
- <row id="108" trl="N">
-  <value column="Name" original="Tools">Tools</value>
-  <value column="Description" original="Garden Tools">Garden Tools</value>
+ <row id="108" trl="Y">
+  <value column="Name" original="Tools">Herramientas</value>
+  <value column="Description" original="Garden Tools">Herramientas de Jardín</value>
  </row>
- <row id="109" trl="N">
-  <value column="Name" original="Chemicals">Chemicals</value>
-  <value column="Description" original="Lawn Chemicals">Lawn Chemicals</value>
+ <row id="109" trl="Y">
+  <value column="Name" original="Chemicals">Productos Químicos</value>
+  <value column="Description" original="Lawn Chemicals">Productos Químicos para Césped</value>
  </row>
- <row id="110" trl="N">
+ <row id="110" trl="Y">
   <value column="Name" original="Patio ">Patio </value>
-  <value column="Description" original="Patio and Lawn Furniture">Patio and Lawn Furniture</value>
+  <value column="Description" original="Patio and Lawn Furniture">Muebles de Patio y Jardín</value>
  </row>
- <row id="111" trl="N">
-  <value column="Name" original="Documentation">Documentation</value>
-  <value column="Description" original="Documentation Download">Documentation Download</value>
+ <row id="111" trl="Y">
+  <value column="Name" original="Documentation">Documentación</value>
+  <value column="Description" original="Documentation Download">Descarga de Documentación</value>
  </row>
- <row id="112" trl="N">
-  <value column="Name" original="Training">Training</value>
+ <row id="112" trl="Y">
+  <value column="Name" original="Training">Capacitación</value>
   <value column="Description" original=""/>
  </row>
- <row id="50000" trl="N">
-  <value column="Name" original="Assembly">Assembly</value>
+ <row id="50000" trl="Y">
+  <value column="Name" original="Assembly">Ensamblaje</value>
   <value column="Description" original=""/>
  </row>
- <row id="50001" trl="N">
-  <value column="Name" original="Raw Material">Raw Material</value>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Raw Material">Materia Prima</value>
   <value column="Description" original=""/>
  </row>
- <row id="50002" trl="N">
-  <value column="Name" original="Packing">Packing</value>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Packing">Embalaje</value>
   <value column="Description" original=""/>
  </row>
- <row id="50003" trl="N">
-  <value column="Name" original="Resources">Resources</value>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Resources">Recursos</value>
   <value column="Description" original=""/>
  </row>
- <row id="200000" trl="N">
-  <value column="Name" original="Vehicles">Vehicles</value>
+ <row id="200000" trl="Y">
+  <value column="Name" original="Vehicles">Vehículos</value>
   <value column="Description" original=""/>
  </row>
- <row id="200001" trl="N">
-  <value column="Name" original="Computers">Computers</value>
+ <row id="200001" trl="Y">
+  <value column="Name" original="Computers">Computadoras</value>
   <value column="Description" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-343d-7be6-8168-d86d94a517cb">
+ <row trl="N" uuid="01a187e1-2f62-7fc5-9a0b-b078d80cc98a">
   <value column="Name" original="Estándar">Estándar</value>
   <value column="Description" original=""/>
  </row>

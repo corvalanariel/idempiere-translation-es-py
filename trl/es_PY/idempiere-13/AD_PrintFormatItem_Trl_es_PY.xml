@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_PrintFormatItem">
- <row id="2147" trl="N">
-  <value column="Name" original="Rectangle">Rectangle</value>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_PrintFormatItem">
+ <row id="2147" trl="Y">
+  <value column="Name" original="Rectangle">Rectángulo</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="2148" trl="N">
-  <value column="Name" original="Product Image">Product Image</value>
+ <row id="2148" trl="Y">
+  <value column="Name" original="Product Image">URL de la Imagen</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="2325" trl="N">
-  <value column="Name" original="DocumentNo Barcode">DocumentNo Barcode</value>
+ <row id="2325" trl="Y">
+  <value column="Name" original="DocumentNo Barcode">No. del Documento</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="2326" trl="N">
-  <value column="Name" original="UPC">UPC</value>
+ <row id="2326" trl="Y">
+  <value column="Name" original="UPC">UPC/EAN</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="2327" trl="N">
-  <value column="Name" original="Postal">Postal</value>
+ <row id="2327" trl="Y">
+  <value column="Name" original="Postal">Código Postal</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
@@ -47,7 +47,7 @@
  </row>
  <row id="51006" trl="Y">
   <value column="Name" original="Cost LL">Costo LL</value>
-  <value column="PrintName" original="Cost LL">Cost LL</value>
+  <value column="PrintName" original="Cost LL">Costo de Nivel Inferior</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
  <row id="51013" trl="Y">
@@ -77,7 +77,7 @@
  </row>
  <row id="51068" trl="Y">
   <value column="Name" original="S Cost">Costo Estándar</value>
-  <value column="PrintName" original="S Cost">Costo E</value>
+  <value column="PrintName" original="S Cost">Costo e</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
  <row id="51069" trl="Y">
@@ -97,11 +97,11 @@
  </row>
  <row id="51076" trl="Y">
   <value column="Name" original="Help">Ayuda</value>
-  <value column="PrintName" original="Help"/>
+  <value column="PrintName" original="Help">Ayuda</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
  <row id="51337" trl="Y">
-  <value column="Name" original="PP_Order_Node_ID">Node Orden</value>
+  <value column="Name" original="PP_Order_Node_ID">Nodo del Pedido</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
@@ -200,18 +200,18 @@
   <value column="PrintName" original="Master BOM">LDM Maestra</value>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="200408" trl="N">
-  <value column="Name" original="Test Print Format for UUID Based Table">Test Print Format for UUID Based Table</value>
+ <row id="200408" trl="Y">
+  <value column="Name" original="Test Print Format for UUID Based Table">Formato de Impresión de Prueba para Tabla Basada en UUID</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row id="200413" trl="N">
-  <value column="Name" original="Detail">Detail</value>
+ <row id="200413" trl="Y">
+  <value column="Name" original="Detail">Detalle</value>
   <value column="PrintName" original=""/>
   <value column="PrintNameSuffix" original=""/>
  </row>
- <row trl="Y" uuid="019e12ad-3cea-7261-82ed-c468d22b2396">
-  <value column="Name" original="VendorProductNo">VendorProductNo</value>
+ <row trl="Y" uuid="01a187e1-398a-7c6d-9fba-947df371db34">
+  <value column="Name" original="VendorProductNo">No. de Producto del Proveedor</value>
   <value column="PrintName" original="VendorProductNo">No. de Producto del Proveedor</value>
   <value column="PrintNameSuffix" original=""/>
  </row>

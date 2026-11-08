@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_Menu">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_Menu">
  <row id="100" trl="Y">
   <value column="Name" original="Invoice Inquiry">Consulta de Facturas</value>
   <value column="Description" original=""/>
@@ -45,7 +45,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="165" trl="Y">
-  <value column="Name" original="Business Partner Rules">Reglas de Terceros</value>
+  <value column="Name" original="Business Partner Rules">Reglas de Socios Comerciales</value>
   <value column="Description" original=""/>
  </row>
  <row id="166" trl="Y">
@@ -53,7 +53,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="167" trl="Y">
-  <value column="Name" original="Material Management Rules">Reglas de Gestión de materiales</value>
+  <value column="Name" original="Material Management Rules">Reglas de Gestión de Materiales</value>
   <value column="Description" original=""/>
  </row>
  <row id="175" trl="Y">
@@ -65,7 +65,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="203" trl="Y">
-  <value column="Name" original="Requisition-to-Invoice (Purchasing)">Compras (Requisición-a-Factura)</value>
+  <value column="Name" original="Requisition-to-Invoice (Purchasing)">Compras (de Solicitud de Compra a Factura)</value>
   <value column="Description" original=""/>
  </row>
  <row id="218" trl="Y">
@@ -77,8 +77,8 @@
   <value column="Description" original="">Saldos Pendientes</value>
  </row>
  <row id="263" trl="Y">
-  <value column="Name" original="Partner Relations">Relación con Terceros</value>
-  <value column="Description" original="Customer Relations and Partner Management">Gestión de la relación con Terceros</value>
+  <value column="Name" original="Partner Relations">Relación con Socios Comerciales</value>
+  <value column="Description" original="Customer Relations and Partner Management">Gestión de la relación con Socios Comerciales</value>
  </row>
  <row id="271" trl="Y">
   <value column="Name" original="Service">Servicios</value>
@@ -125,7 +125,7 @@
   <value column="Description" original="iDempiere Server Maintenance">Mantenimiento del Servidor iDempiere</value>
  </row>
  <row id="457" trl="Y">
-  <value column="Name" original="Sales Orders">Órdenes de Venta</value>
+  <value column="Name" original="Sales Orders">Pedidos de Venta</value>
   <value column="Description" original=""/>
  </row>
  <row id="458" trl="Y">
@@ -145,7 +145,7 @@
   <value column="Description" original="iDempiere Workflow">Flujo de Trabajo iDempiere</value>
  </row>
  <row id="522" trl="Y">
-  <value column="Name" original="Costing">Costos</value>
+  <value column="Name" original="Costing">Costeo</value>
   <value column="Description" original=""/>
  </row>
  <row id="528" trl="Y">
@@ -222,7 +222,7 @@
  </row>
  <row id="53066" trl="Y">
   <value column="Name" original="Distribution Management">Administración de Distribución</value>
-  <value column="Description" original="Distribution Resource Planning (DRP) is a method used in business administration for planning orders within a supply chain. ">Planeación de Distribución de Recursos (DRP) es un método usado en administración de negocios para planeación de órdenes dentro de una cadena de suministros. </value>
+  <value column="Description" original="Distribution Resource Planning (DRP) is a method used in business administration for planning orders within a supply chain. ">Planeación de Distribución de Recursos (DRP) es un método usado en administración de negocios para planeación de pedidos dentro de una cadena de suministros. </value>
  </row>
  <row id="53071" trl="Y">
   <value column="Name" original="Quality Management">Administración de Calidad</value>
@@ -242,14 +242,14 @@
  </row>
  <row id="53108" trl="Y">
   <value column="Name" original="Human Resource and Payroll">Nómina y Recursos Humanos</value>
-  <value column="Description" original="Human Resource and Payroll">Nómina y Recursos Humanos</value>
+  <value column="Description" original="Human Resource and Payroll">Planilla de Salarios y Recursos Humanos</value>
  </row>
  <row id="53109" trl="Y">
   <value column="Name" original="Human Resource">Recursos Humanos</value>
   <value column="Description" original=""/>
  </row>
  <row id="53114" trl="Y">
-  <value column="Name" original="Payroll">Nómina</value>
+  <value column="Name" original="Payroll">Planilla de Salarios</value>
   <value column="Description" original=""/>
  </row>
  <row id="53133" trl="Y">
@@ -296,12 +296,16 @@
   <value column="Name" original="Sales Management">Administración de Ventas</value>
   <value column="Description" original=""/>
  </row>
- <row id="200178" trl="N">
-  <value column="Name" original="External Authorization">External Authorization</value>
+ <row id="200178" trl="Y">
+  <value column="Name" original="External Authorization">Autorización Externa</value>
   <value column="Description" original=""/>
  </row>
- <row id="200184" trl="N">
-  <value column="Name" original="Multi Factor Authentication">Multi Factor Authentication</value>
+ <row id="200184" trl="Y">
+  <value column="Name" original="Multi Factor Authentication">Autenticación Multifactor</value>
+  <value column="Description" original=""/>
+ </row>
+ <row trl="Y" uuid="01a18f6c-0410-758e-948b-1dd4c1b1ac50">
+  <value column="Name" original="Costs">Centros de Costos</value>
   <value column="Description" original=""/>
  </row>
 </idempiereTrl>

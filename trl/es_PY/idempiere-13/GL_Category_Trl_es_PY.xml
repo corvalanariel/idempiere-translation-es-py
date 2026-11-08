@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="GL_Category">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="GL_Category">
  <row id="0" trl="Y">
   <value column="Name" original="None">Ninguna</value>
   <value column="PrintName" original=""/>
@@ -8,84 +8,84 @@
   <value column="Name" original="Manual">Manual</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="109" trl="N">
-  <value column="Name" original="AR Invoice">AR Invoice</value>
+ <row id="109" trl="Y">
+  <value column="Name" original="AR Invoice">Factura de Cliente</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="110" trl="N">
-  <value column="Name" original="AR Receipt">AR Receipt</value>
+ <row id="110" trl="Y">
+  <value column="Name" original="AR Receipt">Cobro de Cliente</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="111" trl="N">
-  <value column="Name" original="Material Management">Material Management</value>
+ <row id="111" trl="Y">
+  <value column="Name" original="Material Management">Gestión de Materiales</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="112" trl="N">
-  <value column="Name" original="AP Invoice">AP Invoice</value>
+ <row id="112" trl="Y">
+  <value column="Name" original="AP Invoice">Factura de Proveedor</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="113" trl="N">
-  <value column="Name" original="AP Payment">AP Payment</value>
+ <row id="113" trl="Y">
+  <value column="Name" original="AP Payment">Pago a Proveedor</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="50000" trl="N">
-  <value column="Name" original="Payroll">Payroll</value>
+ <row id="50000" trl="Y">
+  <value column="Name" original="Payroll">Nómina</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="50001" trl="N">
-  <value column="Name" original="Manufacturing">Manufacturing</value>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Manufacturing">Manufactura</value>
   <value column="PrintName" original=""/>
  </row>
- <row id="50002" trl="N">
-  <value column="Name" original="Distribution">Distribution</value>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Distribution">Distribución</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-301d-790a-b92f-8c29f311823b">
-  <value column="Name" original="Standard">Standard</value>
+ <row trl="Y" uuid="01a187e1-2803-7694-b5d2-f33ea529e336">
+  <value column="Name" original="Standard">Estándar</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-302b-73c1-a658-8ddd5aed39de">
-  <value column="Name" original="None">None</value>
+ <row trl="Y" uuid="01a187e1-2816-79d0-9427-f0bb04b2d338">
+  <value column="Name" original="None">Ninguno</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-302e-755d-9701-a43b0790efa9">
+ <row trl="N" uuid="01a187e1-281d-7c87-b943-b4db439d2eb8">
   <value column="Name" original="Manual">Manual</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3032-7414-9dba-260363e48ed7">
-  <value column="Name" original="AR Invoice">AR Invoice</value>
+ <row trl="Y" uuid="01a187e1-2823-7fa8-adf5-69d6a9df8ebd">
+  <value column="Name" original="AR Invoice">Factura de Cliente</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3035-7d2e-adeb-fe59a8a523cf">
-  <value column="Name" original="AR Receipt">AR Receipt</value>
+ <row trl="Y" uuid="01a187e1-2829-7a2e-8388-1c8cd413acc3">
+  <value column="Name" original="AR Receipt">Cobro de Cliente</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3038-776b-ad8d-c8c4baa05413">
-  <value column="Name" original="Material Management">Material Management</value>
+ <row trl="Y" uuid="01a187e1-282f-770a-9851-f39a7da91ed5">
+  <value column="Name" original="Material Management">Gestión de Materiales</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-303b-78c8-87d0-b477f1466f5a">
-  <value column="Name" original="AP Invoice">AP Invoice</value>
+ <row trl="Y" uuid="01a187e1-2835-72b4-9290-558d85f84bc5">
+  <value column="Name" original="AP Invoice">Factura de Proveedor</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-303e-7ddd-86cb-8e7f37c5a707">
-  <value column="Name" original="AP Payment">AP Payment</value>
+ <row trl="Y" uuid="01a187e1-283a-7461-9938-96e95634f407">
+  <value column="Name" original="AP Payment">Pago a Proveedor</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3042-79d9-9936-c119fca455c0">
-  <value column="Name" original="Cash/Payments">Cash/Payments</value>
+ <row trl="Y" uuid="01a187e1-2841-746c-8895-9f07e15d496c">
+  <value column="Name" original="Cash/Payments">Caja/Pagos</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3045-7283-a4c8-18d34c92fe79">
-  <value column="Name" original="Manufacturing">Manufacturing</value>
+ <row trl="Y" uuid="01a187e1-2846-7f61-af5d-3b383c7df7ce">
+  <value column="Name" original="Manufacturing">Manufactura</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-3048-7325-83ba-02654d9244de">
-  <value column="Name" original="Distribution">Distribution</value>
+ <row trl="Y" uuid="01a187e1-284c-7a2e-8607-8a6fc8af8341">
+  <value column="Name" original="Distribution">Distribución</value>
   <value column="PrintName" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-304e-7584-917f-7cb2f312c25e">
-  <value column="Name" original="Payroll">Payroll</value>
+ <row trl="Y" uuid="01a187e1-2852-78d4-b7f6-1a2ab51900dc">
+  <value column="Name" original="Payroll">Nómina</value>
   <value column="PrintName" original=""/>
  </row>
 </idempiereTrl>

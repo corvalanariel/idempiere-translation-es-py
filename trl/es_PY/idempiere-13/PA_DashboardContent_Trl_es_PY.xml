@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="PA_DashboardContent">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="PA_DashboardContent">
  <row id="50000" trl="Y">
   <value column="Name" original="Activities">Actividades</value>
   <value column="Description" original="Workflow activities, notices and requests">Actividades de flujo de trabajo, avisos y solicitudes</value>
@@ -24,9 +24,9 @@
   <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
- <row id="50004" trl="N">
-  <value column="Name" original="Calendar">Calendar</value>
-  <value column="Description" original="Request Calendar">Request Calendar</value>
+ <row id="50004" trl="Y">
+  <value column="Name" original="Calendar">Calendario</value>
+  <value column="Description" original="Request Calendar">Calendario de Solicitudes</value>
   <value column="Help" original=""/>
   <value column="HTML" original=""/>
  </row>
@@ -55,30 +55,10 @@
   <value column="HTML" original=""/>
  </row>
  <row id="200005" trl="Y">
-  <value column="Name" original="nube ERP">nube ERP</value>
+  <value column="Name" original="Donate">Donar</value>
   <value column="Description" original=""/>
   <value column="Help" original=""/>
-  <value column="HTML" original="&lt;section style=&quot;padding: 40px; background: #f8fafc; border-radius: 16px;&quot;&gt;&#10;  &lt;h2&gt;Client Resources&lt;/h2&gt;&#10;&#10;  &lt;p&gt;&#10;    Everything you need to use, understand, and get the most out of your nube ERP system.&#10;  &lt;/p&gt;&#10;&#10;  &lt;div style=&quot;display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;&quot;&gt;&#10;    &lt;a href=&quot;https://docs.nube.com.py&quot; target=&quot;_blank&quot;&gt;&#10;      User Guides &#128218;&#10;    &lt;/a&gt;&#10;&#10;    &lt;a href=&quot;https://docs.nube.com.py/login&quot; target=&quot;_blank&quot;&gt;&#10;      Client Access &#128272;&#10;    &lt;/a&gt;&#10;&#10;    &lt;a href=&quot;https://wa.me/595981864077?text=Hello!%20I%20need%20support%20with%20nube%20ERP&quot; target=&quot;_blank&quot;&gt;&#10;      Get Help &#128172;&#10;    &lt;/a&gt;&#10;  &lt;/div&gt;&#10;&lt;/section&gt;" xml:space="preserve"><![CDATA[<section style="padding: 40px; background: #f8fafc; border-radius: 16px;">
-  <h2>Recursos para el Cliente</h2>
-
-  <p>
-    Accedé a guías, documentación y canales de soporte para utilizar correctamente tu sistema nube ERP.
-  </p>
-
-  <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
-    <a href="https://docs.nube.com.py" target="_blank">
-      Documentación 📚
-    </a>
-
-    <a href="https://docs.nube.com.py/login" target="_blank">
-      Acceso de Clientes 🔐
-    </a>
-
-    <a href="https://wa.me/595981864077?text=Hola!%20Necesito%20soporte%20con%20nube%20ERP" target="_blank">
-      Contactar Soporte 💬
-    </a>
-  </div>
-</section>]]></value>
+  <value column="HTML" original="&lt;iframe src=&quot;https://www.idempiere.org/short-donate/&quot; style=&quot;border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;&quot;&gt;&lt;/iframe&gt;" xml:space="preserve"><![CDATA[<iframe src="https://www.idempiere.org/short-donate/" style="border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;"></iframe>]]></value>
  </row>
  <row id="200018" trl="N">
   <value column="Name" original="KPI1">KPI1</value>

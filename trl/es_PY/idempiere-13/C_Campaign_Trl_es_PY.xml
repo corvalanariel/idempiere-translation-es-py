@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Campaign">
- <row id="101" trl="N">
-  <value column="Name" original="Standard">Standard</value>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Campaign">
+ <row id="101" trl="Y">
+  <value column="Name" original="Standard">Estándar</value>
   <value column="Description" original=""/>
  </row>
- <row id="102" trl="N">
-  <value column="Name" original="Spring Mailer">Spring Mailer</value>
-  <value column="Description" original="Brochure Mailing for Spring">Brochure Mailing for Spring</value>
+ <row id="102" trl="Y">
+  <value column="Name" original="Spring Mailer">Campaña de Correo de Primavera</value>
+  <value column="Description" original="Brochure Mailing for Spring">Envío de Folletos de Primavera</value>
  </row>
- <row trl="N" uuid="019e12ad-33e3-7861-8ee4-79240e6a3da2">
+ <row trl="N" uuid="01a187e1-2ee9-7188-9262-7b043bca60a5">
   <value column="Name" original="Estándar">Estándar</value>
   <value column="Description" original=""/>
  </row>

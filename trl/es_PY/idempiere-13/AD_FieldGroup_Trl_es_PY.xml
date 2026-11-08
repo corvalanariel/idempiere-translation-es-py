@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_FieldGroup">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_FieldGroup">
  <row id="101" trl="Y">
   <value column="Name" original="Status">Estado</value>
  </row>
@@ -19,10 +19,10 @@
   <value column="Name" original="Product">Producto</value>
  </row>
  <row id="107" trl="Y">
-  <value column="Name" original="Business Partner">Tercero</value>
+  <value column="Name" original="Business Partner">Socio Comercial</value>
  </row>
  <row id="108" trl="Y">
-  <value column="Name" original="Warehouse">Almacén</value>
+  <value column="Name" original="Warehouse">Depósito</value>
  </row>
  <row id="109" trl="Y">
   <value column="Name" original="Bank Accounts">Cuentas Banco/Caja</value>
@@ -70,7 +70,7 @@
   <value column="Name" original="Common">Común</value>
  </row>
  <row id="124" trl="Y">
-  <value column="Name" original="Shipment">Envío</value>
+  <value column="Name" original="Shipment">Entrega</value>
  </row>
  <row id="125" trl="Y">
   <value column="Name" original="Document">Documento</value>
@@ -106,7 +106,7 @@
   <value column="Name" original="Access">Acceso</value>
  </row>
  <row id="50000" trl="Y">
-  <value column="Name" original="Allow Info In Role">Permitir información en rol</value>
+  <value column="Name" original="Allow Info In Role">Permitir Información en Rol</value>
  </row>
  <row id="50001" trl="Y">
   <value column="Name" original="Accounts">Cuentas</value>
@@ -142,7 +142,7 @@
   <value column="Name" original="Logo">Logo</value>
  </row>
  <row id="50016" trl="Y">
-  <value column="Name" original="Location">Localización</value>
+  <value column="Name" original="Location">Dirección</value>
  </row>
  <row id="50017" trl="Y">
   <value column="Name" original="Fixed Asset">Activo Fijo</value>
@@ -181,22 +181,22 @@
   <value column="Name" original="Document Preferences">Preferencias de Documentos</value>
  </row>
  <row id="200009" trl="Y">
-  <value column="Name" original="Charge Account">Cuenta Cargo</value>
+  <value column="Name" original="Charge Account">Cuenta Concepto</value>
  </row>
  <row id="200010" trl="Y">
-  <value column="Name" original="Business Partner Accounts">Cuentas Tercero</value>
+  <value column="Name" original="Business Partner Accounts">Cuentas Socio Comercial</value>
  </row>
  <row id="200011" trl="Y">
   <value column="Name" original="Product Accounts">Cuentas Producto</value>
  </row>
  <row id="200012" trl="Y">
-  <value column="Name" original="Warehouse Accounts">Cuentas Almacén</value>
+  <value column="Name" original="Warehouse Accounts">Cuentas Depósito</value>
  </row>
  <row id="200013" trl="Y">
   <value column="Name" original="Product Category Accounts">Cuentas Categoría Producto</value>
  </row>
  <row id="200014" trl="Y">
-  <value column="Name" original="Business Partner Group Accounts">Cuentas Grupo de Terceros</value>
+  <value column="Name" original="Business Partner Group Accounts">Cuentas Grupo de Socios Comerciales</value>
  </row>
  <row id="200015" trl="Y">
   <value column="Name" original="Technical">Técnico</value>
@@ -207,32 +207,32 @@
  <row id="200018" trl="Y">
   <value column="Name" original="Background Job">Tarea en Segundo Plano</value>
  </row>
- <row id="200022" trl="N">
-  <value column="Name" original="Placeholders">Placeholders</value>
+ <row id="200022" trl="Y">
+  <value column="Name" original="Placeholders">Textos de Ejemplo</value>
  </row>
- <row id="200024" trl="N">
-  <value column="Name" original="FROM BANK ACCOUNT">FROM BANK ACCOUNT</value>
+ <row id="200024" trl="Y">
+  <value column="Name" original="FROM BANK ACCOUNT">CUENTA BANCARIA DE ORIGEN</value>
  </row>
- <row id="200025" trl="N">
-  <value column="Name" original="TO BANK ACCOUNT">TO BANK ACCOUNT</value>
+ <row id="200025" trl="Y">
+  <value column="Name" original="TO BANK ACCOUNT">CUENTA BANCARIA DE DESTINO</value>
  </row>
- <row id="200027" trl="N">
-  <value column="Name" original="EMail">EMail</value>
+ <row id="200027" trl="Y">
+  <value column="Name" original="EMail">Correo Electrónico</value>
  </row>
  <row id="200028" trl="N">
   <value column="Name" original="TOTP">TOTP</value>
  </row>
- <row id="200029" trl="N">
-  <value column="Name" original="Source">Source</value>
+ <row id="200029" trl="Y">
+  <value column="Name" original="Source">Origen</value>
  </row>
- <row id="200030" trl="N">
-  <value column="Name" original="Printing">Printing</value>
+ <row id="200030" trl="Y">
+  <value column="Name" original="Printing">Impresión</value>
  </row>
- <row id="200031" trl="N">
-  <value column="Name" original="( None )">( None )</value>
+ <row id="200031" trl="Y">
+  <value column="Name" original="( None )">( Ninguno )</value>
  </row>
- <row id="200032" trl="N">
-  <value column="Name" original="Additional Dimensions">Additional Dimensions</value>
+ <row id="200032" trl="Y">
+  <value column="Name" original="Additional Dimensions">Dimensiones Adicionales</value>
  </row>
  <row id="200033" trl="Y">
   <value column="Name" original="Security Checklist">Lista de Verificación de Seguridad</value>

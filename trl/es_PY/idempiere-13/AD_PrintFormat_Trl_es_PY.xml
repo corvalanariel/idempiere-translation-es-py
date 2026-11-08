@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_PrintFormat">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="AD_PrintFormat">
  <row id="100" trl="Y">
   <value column="Name" original="Order_Header  ** TEMPLATE **">Encabezado_Orden  ** PLANTILLA **</value>
-  <value column="Description" original="Standard Order Header">Encabezado Orden Estándar</value>
+  <value column="Description" original="Standard Order Header">Encabezado Pedido Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="101" trl="Y">
-  <value column="Name" original="Order_LineTax  ** TEMPLATE **">Lineas Orden  ** PLANTILLA **</value>
-  <value column="Description" original="Standard Order Line&amp;Tax">Lineas Orden Estándar</value>
+  <value column="Name" original="Order_LineTax  ** TEMPLATE **">Lineas Pedido  ** PLANTILLA **</value>
+  <value column="Description" original="Standard Order Line&amp;Tax">Lineas Pedido Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="102" trl="Y">
@@ -45,49 +45,49 @@
   <value column="Description" original="Standard Remittance Header">Encabezado Remesa Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="118" trl="N">
-  <value column="Name" original="Order Header">Order Header</value>
-  <value column="Description" original="Standard Order Header">Standard Order Header</value>
+ <row id="118" trl="Y">
+  <value column="Name" original="Order Header">Encabezado de Pedido</value>
+  <value column="Description" original="Standard Order Header">Encabezado de Pedido Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="119" trl="N">
-  <value column="Name" original="Order LineTax">Order LineTax</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Standard Order Line&Tax]]></value>
+ <row id="119" trl="Y">
+  <value column="Name" original="Order LineTax">Líneas e Impuestos de Pedido</value>
+  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Líneas e Impuestos de Pedido Estándar]]></value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="120" trl="N">
-  <value column="Name" original="Invoice Header">Invoice Header</value>
-  <value column="Description" original="Standard Invoice Header">Standard Invoice Header</value>
+ <row id="120" trl="Y">
+  <value column="Name" original="Invoice Header">Encabezado de Factura</value>
+  <value column="Description" original="Standard Invoice Header">Encabezado de Factura Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="121" trl="N">
-  <value column="Name" original="Invoice LineTax">Invoice LineTax</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Standard Invoice Line&Tax Lines]]></value>
+ <row id="121" trl="Y">
+  <value column="Name" original="Invoice LineTax">Líneas e Impuestos de Factura</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Líneas e Impuestos de Factura Estándar]]></value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="122" trl="N">
-  <value column="Name" original="Shipment Header">Shipment Header</value>
-  <value column="Description" original="Standard Shipment Header">Standard Shipment Header</value>
+ <row id="122" trl="Y">
+  <value column="Name" original="Shipment Header">Encabezado de Entrega</value>
+  <value column="Description" original="Standard Shipment Header">Encabezado de Entrega Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="123" trl="N">
-  <value column="Name" original="Shipment Line">Shipment Line</value>
-  <value column="Description" original="Standard Shipment Lines">Standard Shipment Lines</value>
+ <row id="123" trl="Y">
+  <value column="Name" original="Shipment Line">Línea de Entrega</value>
+  <value column="Description" original="Standard Shipment Lines">Líneas de Entrega Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="124" trl="N">
-  <value column="Name" original="Check">Check</value>
-  <value column="Description" original="Standard Check with Remittance Info">Standard Check with Remittance Info</value>
+ <row id="124" trl="Y">
+  <value column="Name" original="Check">Cheque</value>
+  <value column="Description" original="Standard Check with Remittance Info">Cheque Estándar con Información de Remesa</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="125" trl="N">
-  <value column="Name" original="Remittance Lines">Remittance Lines</value>
-  <value column="Description" original="Standard Check/Remittance Lines">Standard Check/Remittance Lines</value>
+ <row id="125" trl="Y">
+  <value column="Name" original="Remittance Lines">Líneas de Remesa</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Líneas de Cheque/Remesa Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="126" trl="N">
-  <value column="Name" original="Remittance">Remittance</value>
-  <value column="Description" original="Standard Remittance Header">Standard Remittance Header</value>
+ <row id="126" trl="Y">
+  <value column="Name" original="Remittance">Remesa</value>
+  <value column="Description" original="Standard Remittance Header">Encabezado de Remesa Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="134" trl="Y">
@@ -127,12 +127,12 @@
  </row>
  <row id="151" trl="Y">
   <value column="Name" original="Dunning_Header ** TEMPLATE **">Encabezado Cartera ** PLANTILLA **</value>
-  <value column="Description" original="Standard Dunning Letter">Encabezado Cartera Estándar</value>
+  <value column="Description" original="Standard Dunning Letter">Encabezado Cuentas por Cobrar Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="152" trl="Y">
   <value column="Name" original="Dunning_Line ** TEMPLATE **">Línea Cartera ** PLANTILLA **</value>
-  <value column="Description" original="Standard Dunning Letter Lines">Línea Cartera Estándar</value>
+  <value column="Description" original="Standard Dunning Letter Lines">Línea Cuentas por Cobrar Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="153" trl="Y">
@@ -165,13 +165,13 @@
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="163" trl="N">
-  <value column="Name" original="Report Line">Report Line</value>
+ <row id="163" trl="Y">
+  <value column="Name" original="Report Line">Línea del Informe</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="164" trl="N">
-  <value column="Name" original="Report Source">Report Source</value>
+ <row id="164" trl="Y">
+  <value column="Name" original="Report Source">Origen del Informe</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -186,22 +186,22 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50001" trl="Y">
-  <value column="Name" original="Manufacturing_Order_Header ** TEMPLATE **">Encabezado Orden Manufactura ** PLANTILLA **</value>
-  <value column="Description" original="Manufacturing Order">Orden Manufactura</value>
+  <value column="Name" original="Manufacturing_Order_Header ** TEMPLATE **">Encabezado del Pedido de Manufactura ** PLANTILLA **</value>
+  <value column="Description" original="Manufacturing Order">Pedido Manufactura</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50002" trl="Y">
-  <value column="Name" original="Manufacturing_Order_BOMLine ** TEMPLATE **">Línea Orden Manufactura ** PLANTILLA **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Línea Orden Manufactura</value>
+  <value column="Name" original="Manufacturing_Order_BOMLine ** TEMPLATE **">Línea del Pedido de Manufactura ** PLANTILLA **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Línea Pedido Manufactura</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50003" trl="Y">
-  <value column="Name" original="Manufacturing Orders Review  ">Revisión Ordenes Manufactura</value>
+  <value column="Name" original="Manufacturing Orders Review  ">Revisión Pedidos Manufactura</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50004" trl="Y">
-  <value column="Name" original="Manufacturing Orders Review   Copiar registro 4082309">Revisión Ordenes Manufactura Copiar registro 4082309</value>
+  <value column="Name" original="Manufacturing Orders Review   Copiar registro 4082309">Revisión Pedidos Manufactura Copiar Registro 4082309</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -211,12 +211,12 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50006" trl="Y">
-  <value column="Name" original="Order Transactions">Transacciones Orden</value>
+  <value column="Name" original="Order Transactions">Transacciones Pedido</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50007" trl="Y">
-  <value column="Name" original="Order Transactions Copiar registro 14306576">Transacciones Orden Copiar registro 14306576</value>
+  <value column="Name" original="Order Transactions Copiar registro 14306576">Transacciones Pedido Copiar Registro 14306576</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -231,13 +231,13 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50010" trl="Y">
-  <value column="Name" original="DistributionOrder_Line  ** TEMPLATE **">Línea Orden Distribución  ** PLANTILLA **</value>
-  <value column="Description" original="Standard Order Line">Línea Orden Distribución</value>
+  <value column="Name" original="DistributionOrder_Line  ** TEMPLATE **">Línea del Pedido de Distribución  ** PLANTILLA **</value>
+  <value column="Description" original="Standard Order Line">Línea Pedido Distribución</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50011" trl="Y">
-  <value column="Name" original="DistributionOrder_Header  ** TEMPLATE **">Encabezado Orden Distribución  ** PLANTILLA **</value>
-  <value column="Description" original="Standard Order Header">Encabezado Orden Distribución</value>
+  <value column="Name" original="DistributionOrder_Header  ** TEMPLATE **">Encabezado del Pedido de Distribución  ** PLANTILLA **</value>
+  <value column="Description" original="Standard Order Header">Encabezado Pedido Distribución</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50012" trl="Y">
@@ -336,7 +336,7 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50031" trl="Y">
-  <value column="Name" original="Inbound Charge Entry Report">Reporte Entrada de Cargos</value>
+  <value column="Name" original="Inbound Charge Entry Report">Informe de Entrada de Conceptos</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -350,19 +350,19 @@
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50035" trl="N">
-  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail &Copy Record 1746519845]]></value>
-  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[Multi Level BOM & Formula Detail]]></value>
+ <row id="50035" trl="Y">
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve"><![CDATA[LDM Multi Nivel & Detalle Fórmula Copiar Registro 1746519845]]></value>
+  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve"><![CDATA[LDM Multi Nivel & Detalle Fórmula]]></value>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="50036" trl="N">
-  <value column="Name" original="Forecast Report &amp;Copy Record 1630346308" xml:space="preserve"><![CDATA[Forecast Report &Copy Record 1630346308]]></value>
+ <row id="50036" trl="Y">
+  <value column="Name" original="Forecast Report &amp;Copy Record 1630346308">Reporte Proyección Copiar Registro 1630346308</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50037" trl="Y">
-  <value column="Name" original="Manufacturing_Order_Node ** TEMPLATE **">Nodo Orden Manufactura ** PLANTILLA **</value>
-  <value column="Description" original="Manufacturing Order Node">Nodo Orden Manufactura</value>
+  <value column="Name" original="Manufacturing_Order_Node ** TEMPLATE **">Nodo del Pedido de Manufactura ** PLANTILLA **</value>
+  <value column="Description" original="Manufacturing Order Node">Nodo Pedido Manufactura</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50038" trl="Y">
@@ -371,32 +371,32 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50040" trl="Y">
-  <value column="Name" original="Manufacturing_Order_BOMLine_Component ** TEMPLATE **">Componente Línea Orden Manufactura ** PLANTILLA **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Componente Línea Orden Manufactura</value>
+  <value column="Name" original="Manufacturing_Order_BOMLine_Component ** TEMPLATE **">Componente Línea del Pedido de Manufactura ** PLANTILLA **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Componente Línea Pedido Manufactura</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50041" trl="Y">
-  <value column="Name" original="Manufacturing_Order_BOM_Header ** TEMPLATE **">Encabezado Orden Manufactura ** PLANTILLA **</value>
+  <value column="Name" original="Manufacturing_Order_BOM_Header ** TEMPLATE **">Encabezado del Pedido de Manufactura ** PLANTILLA **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50042" trl="Y">
-  <value column="Name" original="Manufacturing_Order_Workflow_Header ** TEMPLATE **">Encabezado Orden Flujo Manufactura ** PLANTILLA **</value>
+  <value column="Name" original="Manufacturing_Order_Workflow_Header ** TEMPLATE **">Encabezado del Pedido Flujo Manufactura ** PLANTILLA **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50043" trl="Y">
-  <value column="Name" original="Manufacturing_Order_Node_Product ** TEMPLATE **">Nodo Producto Orden Manufactura ** PLANTILLA **</value>
+  <value column="Name" original="Manufacturing_Order_Node_Product ** TEMPLATE **">Nodo Producto Pedido de Manufactura ** PLANTILLA **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50044" trl="Y">
-  <value column="Name" original="Manufacturing_Order_BOMLine_Packing** TEMPLATE **">Línea Empaque Orden Manufactura ** PLANTILLA **</value>
-  <value column="Description" original="Manufacturing Order BOM Line">Línea Empaque Orden Manufactura</value>
+  <value column="Name" original="Manufacturing_Order_BOMLine_Packing** TEMPLATE **">Línea Empaque Pedido de Manufactura ** PLANTILLA **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Línea Empaque Pedido Manufactura</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="50045" trl="Y">
-  <value column="Name" original="Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **">Encabezado Empaque Orden Manufactura ** PLANTILLA **</value>
+  <value column="Name" original="Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **">Encabezado Empaque Pedido de Manufactura ** PLANTILLA **</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -431,7 +431,7 @@
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="200006" trl="Y">
-  <value column="Name" original="Product/Component Where Used">Dónde es usuado Producto/Componente</value>
+  <value column="Name" original="Product/Component Where Used">Dónde Es Usuado Producto/Componente</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
@@ -445,74 +445,79 @@
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200014" trl="N">
-  <value column="Name" original="Trial Balance Report">Trial Balance Report</value>
+ <row id="200014" trl="Y">
+  <value column="Name" original="Trial Balance Report">Balance de Comprobación</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200016" trl="N">
-  <value column="Name" original="TestUUDet Print Format">TestUUDet Print Format</value>
+ <row id="200016" trl="Y">
+  <value column="Name" original="TestUUDet Print Format">Formato de Impresión de TestUUDet</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200017" trl="N">
-  <value column="Name" original="TestUU Print Format">TestUU Print Format</value>
+ <row id="200017" trl="Y">
+  <value column="Name" original="TestUU Print Format">Formato de Impresión de TestUU</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row id="200018" trl="N">
-  <value column="Name" original="Tab">Tab</value>
+ <row id="200018" trl="Y">
+  <value column="Name" original="Tab">Pestaña</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row trl="N" uuid="019e0ee4-28b6-789e-a45e-f1187a4bcc22">
+ <row trl="Y" uuid="01a187e1-314b-7a42-87da-da3f2f94aaa0">
+  <value column="Name" original="Order_Header  ** 1000000 ** - Copiar registro">Order_Header  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Order Header">Encabezado de Pedido Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-392c-755e-8be0-015542f1c3a2">
+  <value column="Name" original="Order_LineTax  ** 1000000 ** - Copiar registro">Order_LineTax  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Líneas e Impuestos de Pedido Estándar]]></value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-3d68-72c4-b996-871c8ec6a3cf">
+  <value column="Name" original="Invoice_Header  ** 1000000 ** - Copiar registro">Invoice_Header  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Invoice Header">Encabezado de Factura Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-42cb-716f-8e78-c1957085d27f">
+  <value column="Name" original="Invoice_LineTax  ** 1000000 ** - Copiar registro">Invoice_LineTax  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Líneas e Impuestos de Factura Estándar]]></value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-46e9-7ac9-8d06-e68cb6f077ae">
+  <value column="Name" original="InOut_Header ** 1000000 ** - Copiar registro">InOut_Header ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Shipment Header">Encabezado de Entrega Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-4b7b-7cb8-9ef1-1d8fd36253dc">
+  <value column="Name" original="InOut_Line  ** 1000000 ** - Copiar registro">InOut_Line  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Shipment Lines">Líneas de Entrega Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-4eeb-716a-a1a8-69ff5b182fbc">
+  <value column="Name" original="PaySelection_Check  ** 1000000 ** - Copiar registro">PaySelection_Check  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Check with Remittance Info">Cheque Estándar con Información de Remesa</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-515c-78c3-b410-d70ddb9b7aff">
+  <value column="Name" original="PaySelection_Remittance_Lines  ** 1000000 ** - Copiar regist">PaySelection_Remittance_Lines  ** 1000000 ** - Copiar regist</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Líneas de Cheque/Remesa Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a187e1-532a-77a0-865d-f441be9a0b7f">
+  <value column="Name" original="PaySelection_Remittance  ** 1000000 ** - Copiar registro">PaySelection_Remittance  ** 1000000 ** - Copiar registro</value>
+  <value column="Description" original="Standard Remittance Header">Encabezado de Remesa Estándar</value>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a1b415-97c0-7d1d-837b-3d0c23f8aa5b">
   <value column="Name" original="Elemento del Sistema">Elemento del Sistema</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
- <row trl="N" uuid="019e12ad-35a7-7e4e-851e-321ea9b8f6f5">
-  <value column="Name" original="Order_Header  ** 1000000 ** - Copiar registro">Order_Header  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Order Header">Standard Order Header</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-3ca9-7e53-83ae-ed57a18c2923">
-  <value column="Name" original="Order_LineTax  ** 1000000 ** - Copiar registro">Order_LineTax  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Standard Order Line&Tax]]></value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-4019-7e7e-a684-02f1f401058c">
-  <value column="Name" original="Invoice_Header  ** 1000000 ** - Copiar registro">Invoice_Header  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Invoice Header">Standard Invoice Header</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-4487-788d-a0e4-68aa71314e7f">
-  <value column="Name" original="Invoice_LineTax  ** 1000000 ** - Copiar registro">Invoice_LineTax  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Standard Invoice Line&Tax Lines]]></value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-4822-7c60-9f42-0a9d1406a0c7">
-  <value column="Name" original="InOut_Header ** 1000000 ** - Copiar registro">InOut_Header ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Shipment Header">Standard Shipment Header</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-4c16-71bd-b4c9-20c5c788825c">
-  <value column="Name" original="InOut_Line  ** 1000000 ** - Copiar registro">InOut_Line  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Shipment Lines">Standard Shipment Lines</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-4f45-7a42-ad03-78ac33c6dd39">
-  <value column="Name" original="PaySelection_Check  ** 1000000 ** - Copiar registro">PaySelection_Check  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Check with Remittance Info">Standard Check with Remittance Info</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-513f-70c3-aeaf-8a09f5f73dad">
-  <value column="Name" original="PaySelection_Remittance_Lines  ** 1000000 ** - Copiar regist">PaySelection_Remittance_Lines  ** 1000000 ** - Copiar regist</value>
-  <value column="Description" original="Standard Check/Remittance Lines">Standard Check/Remittance Lines</value>
-  <value column="FileNamePattern" original=""/>
- </row>
- <row trl="N" uuid="019e12ad-5296-7d1d-b0a7-f4ebca53d204">
-  <value column="Name" original="PaySelection_Remittance  ** 1000000 ** - Copiar registro">PaySelection_Remittance  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Remittance Header">Standard Remittance Header</value>
+ <row trl="Y" uuid="01a1b453-122f-7cb6-8572-80691ce6ddb6">
+  <value column="Name" original="Configurador del Sistema.">Configurador del Sistema.</value>
+  <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>
 </idempiereTrl>

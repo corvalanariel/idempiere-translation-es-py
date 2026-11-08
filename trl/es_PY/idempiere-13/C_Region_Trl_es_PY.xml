@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Implementado por nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Region">
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - by nube ERP--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="es_PY" table="C_Region">
  <row id="102" trl="N">
   <value column="Name" original="CT">CT</value>
  </row>
@@ -153,23 +153,23 @@
  <row id="156" trl="N">
   <value column="Name" original="Alberta">Alberta</value>
  </row>
- <row id="157" trl="N">
-  <value column="Name" original="British Columbia">British Columbia</value>
+ <row id="157" trl="Y">
+  <value column="Name" original="British Columbia">Columbia Británica</value>
  </row>
  <row id="158" trl="N">
   <value column="Name" original="Manitoba">Manitoba</value>
  </row>
- <row id="159" trl="N">
-  <value column="Name" original="New Brunswick">New Brunswick</value>
+ <row id="159" trl="Y">
+  <value column="Name" original="New Brunswick">Nuevo Brunswick</value>
  </row>
- <row id="160" trl="N">
-  <value column="Name" original="Newfoundland and Labrador">Newfoundland and Labrador</value>
+ <row id="160" trl="Y">
+  <value column="Name" original="Newfoundland and Labrador">Terranova y Labrador</value>
  </row>
- <row id="161" trl="N">
-  <value column="Name" original="Nova Scotia">Nova Scotia</value>
+ <row id="161" trl="Y">
+  <value column="Name" original="Nova Scotia">Nueva Escocia</value>
  </row>
- <row id="162" trl="N">
-  <value column="Name" original="Northwest Territories">Northwest Territories</value>
+ <row id="162" trl="Y">
+  <value column="Name" original="Northwest Territories">Territorios del Noroeste</value>
  </row>
  <row id="163" trl="N">
   <value column="Name" original="Nunavut">Nunavut</value>
@@ -177,17 +177,17 @@
  <row id="164" trl="N">
   <value column="Name" original="Ontario">Ontario</value>
  </row>
- <row id="165" trl="N">
-  <value column="Name" original="Prince Edward Island">Prince Edward Island</value>
+ <row id="165" trl="Y">
+  <value column="Name" original="Prince Edward Island">Isla del Príncipe Eduardo</value>
  </row>
- <row id="166" trl="N">
-  <value column="Name" original="Québec">Québec</value>
+ <row id="166" trl="Y">
+  <value column="Name" original="Québec">Quebec</value>
  </row>
  <row id="167" trl="N">
   <value column="Name" original="Saskatchewan">Saskatchewan</value>
  </row>
- <row id="168" trl="N">
-  <value column="Name" original="Yukon">Yukon</value>
+ <row id="168" trl="Y">
+  <value column="Name" original="Yukon">Yukón</value>
  </row>
  <row id="169" trl="N">
   <value column="Name" original="VIC">VIC</value>
@@ -765,53 +765,53 @@
  <row id="50001" trl="N">
   <value column="Name" original="長野県">長野県</value>
  </row>
- <row id="50002" trl="N">
-  <value column="Name" original="Baden-Württemberg">Baden-Württemberg</value>
+ <row id="50002" trl="Y">
+  <value column="Name" original="Baden-Württemberg">Baden-Wurtemberg</value>
  </row>
- <row id="50003" trl="N">
-  <value column="Name" original="Bayern">Bayern</value>
+ <row id="50003" trl="Y">
+  <value column="Name" original="Bayern">Baviera</value>
  </row>
- <row id="50004" trl="N">
-  <value column="Name" original="Berlin">Berlin</value>
+ <row id="50004" trl="Y">
+  <value column="Name" original="Berlin">Berlín</value>
  </row>
- <row id="50005" trl="N">
-  <value column="Name" original="Brandenburg">Brandenburg</value>
+ <row id="50005" trl="Y">
+  <value column="Name" original="Brandenburg">Brandeburgo</value>
  </row>
  <row id="50006" trl="N">
   <value column="Name" original="Bremen">Bremen</value>
  </row>
- <row id="50007" trl="N">
-  <value column="Name" original="Hamburg">Hamburg</value>
+ <row id="50007" trl="Y">
+  <value column="Name" original="Hamburg">Hamburgo</value>
  </row>
- <row id="50008" trl="N">
-  <value column="Name" original="Hessen">Hessen</value>
+ <row id="50008" trl="Y">
+  <value column="Name" original="Hessen">Hesse</value>
  </row>
- <row id="50009" trl="N">
-  <value column="Name" original="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</value>
+ <row id="50009" trl="Y">
+  <value column="Name" original="Mecklenburg-Vorpommern">Mecklemburgo-Pomerania Occidental</value>
  </row>
- <row id="50010" trl="N">
-  <value column="Name" original="Niedersachsen">Niedersachsen</value>
+ <row id="50010" trl="Y">
+  <value column="Name" original="Niedersachsen">Baja Sajonia</value>
  </row>
- <row id="50011" trl="N">
-  <value column="Name" original="Nordrhein-Westfalen">Nordrhein-Westfalen</value>
+ <row id="50011" trl="Y">
+  <value column="Name" original="Nordrhein-Westfalen">Renania del Norte-Westfalia</value>
  </row>
- <row id="50012" trl="N">
-  <value column="Name" original="Rheinland-Pfalz">Rheinland-Pfalz</value>
+ <row id="50012" trl="Y">
+  <value column="Name" original="Rheinland-Pfalz">Renania-Palatinado</value>
  </row>
- <row id="50013" trl="N">
-  <value column="Name" original="Saarland">Saarland</value>
+ <row id="50013" trl="Y">
+  <value column="Name" original="Saarland">Sarre</value>
  </row>
- <row id="50014" trl="N">
-  <value column="Name" original="Sachsen">Sachsen</value>
+ <row id="50014" trl="Y">
+  <value column="Name" original="Sachsen">Sajonia</value>
  </row>
- <row id="50015" trl="N">
-  <value column="Name" original="Sachsen-Anhalt">Sachsen-Anhalt</value>
+ <row id="50015" trl="Y">
+  <value column="Name" original="Sachsen-Anhalt">Sajonia-Anhalt</value>
  </row>
  <row id="50016" trl="N">
   <value column="Name" original="Schleswig-Holstein">Schleswig-Holstein</value>
  </row>
- <row id="50017" trl="N">
-  <value column="Name" original="Thüringen">Thüringen</value>
+ <row id="50017" trl="Y">
+  <value column="Name" original="Thüringen">Turingia</value>
  </row>
  <row id="50018" trl="N">
   <value column="Name" original="Адыгея (Адыгея) Республика">Адыгея (Адыгея) Республика</value>
@@ -1170,26 +1170,26 @@
  <row id="200141" trl="N">
   <value column="Name" original="VICHADA">VICHADA</value>
  </row>
- <row id="200142" trl="N">
-  <value column="Name" original="Vienna">Vienna</value>
+ <row id="200142" trl="Y">
+  <value column="Name" original="Vienna">Viena</value>
  </row>
- <row id="200143" trl="N">
-  <value column="Name" original="Lower Austria">Lower Austria</value>
+ <row id="200143" trl="Y">
+  <value column="Name" original="Lower Austria">Baja Austria</value>
  </row>
- <row id="200144" trl="N">
-  <value column="Name" original="Upper Austria">Upper Austria</value>
+ <row id="200144" trl="Y">
+  <value column="Name" original="Upper Austria">Alta Austria</value>
  </row>
- <row id="200145" trl="N">
-  <value column="Name" original="Styria">Styria</value>
+ <row id="200145" trl="Y">
+  <value column="Name" original="Styria">Estiria</value>
  </row>
- <row id="200146" trl="N">
-  <value column="Name" original="Tyrol">Tyrol</value>
+ <row id="200146" trl="Y">
+  <value column="Name" original="Tyrol">Tirol</value>
  </row>
- <row id="200147" trl="N">
-  <value column="Name" original="Carinthia">Carinthia</value>
+ <row id="200147" trl="Y">
+  <value column="Name" original="Carinthia">Carintia</value>
  </row>
- <row id="200148" trl="N">
-  <value column="Name" original="Salzburg">Salzburg</value>
+ <row id="200148" trl="Y">
+  <value column="Name" original="Salzburg">Salzburgo</value>
  </row>
  <row id="200149" trl="N">
   <value column="Name" original="Vorarlberg">Vorarlberg</value>
@@ -1197,55 +1197,7 @@
  <row id="200150" trl="N">
   <value column="Name" original="Burgenland">Burgenland</value>
  </row>
- <row trl="N" uuid="019de8f1-bf99-79bd-8683-c56fa49c389d">
+ <row trl="N" uuid="01a187db-56e5-7a73-a076-7b9386bc274b">
   <value column="Name" original="ALTO PARANA">ALTO PARANA</value>
- </row>
- <row trl="N" uuid="019de8f8-0dde-7427-a473-9067dd36c972">
-  <value column="Name" original="ALTO PARAGUAY">ALTO PARAGUAY</value>
- </row>
- <row trl="N" uuid="019de8f8-0e4c-71f1-b3bd-2ece63573b01">
-  <value column="Name" original="AMAMBAY">AMAMBAY</value>
- </row>
- <row trl="N" uuid="019de8f8-0e6d-703c-91d5-52b28212d5be">
-  <value column="Name" original="BOQUERON">BOQUERON</value>
- </row>
- <row trl="N" uuid="019de8f8-0e7f-7d2d-9811-cad428d5d163">
-  <value column="Name" original="CAAGUAZU">CAAGUAZU</value>
- </row>
- <row trl="N" uuid="019de8f8-0e91-7b93-8ea0-1c36f1a5d704">
-  <value column="Name" original="CAAZAPA">CAAZAPA</value>
- </row>
- <row trl="N" uuid="019de8f8-0ea3-774d-b090-bc520af25777">
-  <value column="Name" original="CANINDEYU">CANINDEYU</value>
- </row>
- <row trl="N" uuid="019de8f8-0eb8-7f83-89ee-ef8f4bd2953a">
-  <value column="Name" original="CENTRAL">CENTRAL</value>
- </row>
- <row trl="N" uuid="019de8f8-0ef3-74d0-a13e-7c5050fe8c18">
-  <value column="Name" original="CONCEPCION">CONCEPCION</value>
- </row>
- <row trl="N" uuid="019de8f8-0f07-7d99-ac64-eaeabd0ca059">
-  <value column="Name" original="CORDILLERA">CORDILLERA</value>
- </row>
- <row trl="N" uuid="019de8f8-0f26-71a5-bea5-d05145304eed">
-  <value column="Name" original="GUAIRA">GUAIRA</value>
- </row>
- <row trl="N" uuid="019de8f8-0f79-7bdd-a74a-a128f14a2e91">
-  <value column="Name" original="ITAPUA">ITAPUA</value>
- </row>
- <row trl="N" uuid="019de8f8-0f95-79d2-82df-472eb506c66b">
-  <value column="Name" original="MISIONES">MISIONES</value>
- </row>
- <row trl="N" uuid="019de8f8-0fa5-7944-9be4-2592780835eb">
-  <value column="Name" original="ÑEEMBUCU">ÑEEMBUCU</value>
- </row>
- <row trl="N" uuid="019de8f8-0fb4-7a5d-93ae-651f9fa50ff0">
-  <value column="Name" original="PARAGUARI">PARAGUARI</value>
- </row>
- <row trl="N" uuid="019de8f8-0fc4-7e64-becb-cb84ccc6a983">
-  <value column="Name" original="PRESIDENTE HAYES">PRESIDENTE HAYES</value>
- </row>
- <row trl="N" uuid="019de8f8-0fd4-7c97-bec6-cfbf862aac7c">
-  <value column="Name" original="SAN PEDRO">SAN PEDRO</value>
  </row>
 </idempiereTrl>
