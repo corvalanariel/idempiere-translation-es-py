@@ -423,9 +423,9 @@
  <row id="204" trl="Y">
   <value column="Name" original="Mail Template">Plantilla de Correo</value>
   <value column="Description" original="Maintain Mail Template">Mantener Plantilla de Correo</value>
-  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection.">Las plantillas de correo pueden contener variables del usuario, del Socio Comercial o de un objeto general. Se resuelven en el pedido Usuario/Contacto, Socio Comercial y objeto de negocio subyacente (por ejemplo, Solicitud, Cobro o Flujo de Trabajo).&lt;br&gt;
-Así, @Name@ se reemplaza por el nombre del Usuario si está definido; de lo contrario, por el del Socio Comercial si está definido y, finalmente, por el del objeto de negocio si tiene nombre.&lt;br&gt;
-En sistemas multilingües, la plantilla se traduce según el idioma seleccionado para el Socio Comercial.</value>
+  <value column="Help" original="Mail templates can contain variables of the user, business partner or a general object.  The priority of parsing is User/Contact, Business Partner and then the underlying business object (like Request, Dunning, Workflow object).&lt;br&gt;&#10;So, @Name@ would resolve into the User name (if user is defined defined), then Business Partner name (if business partner is defined) and then the Name of the business object if it has a Name.&lt;br&gt;&#10;For Multi-Lingual systems, the template is translated based on the Business Partner's language selection." xml:space="preserve"><![CDATA[Las plantillas de correo pueden contener variables del usuario, del Socio Comercial o de un objeto general. Se resuelven en el pedido Usuario/Contacto, Socio Comercial y objeto de negocio subyacente (por ejemplo, Solicitud, Cobro o Flujo de Trabajo).<br>
+Así, @Name@ se reemplaza por el nombre del Usuario si está definido; de lo contrario, por el del Socio Comercial si está definido y, finalmente, por el del objeto de negocio si tiene nombre.<br>
+En sistemas multilingües, la plantilla se traduce según el idioma seleccionado para el Socio Comercial.]]></value>
  </row>
  <row id="205" trl="Y">
   <value column="Name" original="View Allocation">Consulta de Asignación</value>
@@ -741,12 +741,12 @@ Tenga en cuenta que el acceso a la información está en caché y requiere volve
  <row id="273" trl="Y">
   <value column="Name" original="Click">Clic</value>
   <value column="Description" original="Maintain Web Click">Mantenga el tecleo del Web</value>
-  <value column="Help" original="Web Clicks allow you to track number of clicks.  Example:&#10;&amp;lt;a href=&quot;http://www.idempiere.org/wstore/click?http://www.idempiere.org target=&quot;_blank&quot;&amp;gt; where&#10;&quot;http://www.idempiere.org/wstore/click&quot; is your side and &quot;http://www.idempiere.de&quot; is the target page.&#10;If you created a web click for http://www.idempiere.de, you will be able to see details and total of web clicks.&#10;">Los Clics Web permiten rastrear el número de clics. Ejemplo:
-&amp;lt;a href="http://www.idempiere.org/wstore/click?http://www.idempiere.org target="_blank"&amp;gt; donde
+  <value column="Help" original="Web Clicks allow you to track number of clicks.  Example:&#10;&amp;lt;a href=&quot;http://www.idempiere.org/wstore/click?http://www.idempiere.org target=&quot;_blank&quot;&amp;gt; where&#10;&quot;http://www.idempiere.org/wstore/click&quot; is your side and &quot;http://www.idempiere.de&quot; is the target page.&#10;If you created a web click for http://www.idempiere.de, you will be able to see details and total of web clicks.&#10;" xml:space="preserve"><![CDATA[Los Clics Web permiten rastrear el número de clics. Ejemplo:
+&lt;a href="http://www.idempiere.org/wstore/click?http://www.idempiere.org target="_blank"&gt; donde
 "http://www.idempiere.org/wstore/click" es su sitio y "http://www.idempiere.de" es la página de destino.
 Si creó un clic web para http://www.idempiere.de, podrá ver sus detalles y el total de clics.
 
-</value>
+]]></value>
  </row>
  <row id="274" trl="Y">
   <value column="Name" original="Counter">Contador</value>

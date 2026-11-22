@@ -4158,7 +4158,7 @@
  </row>
  <row id="53441" trl="Y">
   <value column="Name" original="Natural Balance">Balance Natural</value>
-  <value column="Description" original="BY for P &amp; L account, BT for Balance Sheet account" xml:space="preserve"><![CDATA[BY para cuentas de Resultados; BT para cuentas de Balance]]></value>
+  <value column="Description" original="BY for P &amp; L account, BT for Balance Sheet account">BY para cuentas de Resultados; BT para cuentas de Balance</value>
  </row>
  <row id="53442" trl="Y">
   <value column="Name" original="Material Receipt">Recepción de Productos</value>
@@ -6109,7 +6109,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="200751" trl="Y">
-  <value column="Name" original="P&amp;L" xml:space="preserve"><![CDATA[Pérdidas y Ganancias]]></value>
+  <value column="Name" original="P&amp;L">Pérdidas y Ganancias</value>
   <value column="Description" original=""/>
  </row>
  <row id="200752" trl="Y">

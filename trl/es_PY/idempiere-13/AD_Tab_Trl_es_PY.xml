@@ -206,13 +206,13 @@
  </row>
  <row id="135" trl="Y">
   <value column="Name" original="Country">País</value>
-  <value column="CommitWarning" original="Please create a support request - https://idempiere.atlassian.net/secure/CreateIssue.jspa - if the country data is not correct.">Por favor crear un registro de soporte (http://www.idempiere.org/support/requests.html) si los datos del país no son correctos.</value>
+  <value column="CommitWarning" original="Please create a support request - https://idempiere.atlassian.net/secure/CreateIssue.jspa - if the country data is not correct.">Por favor crear un registro de soporte (http://www.idempiere.org/support/) si los datos del país no son correctos.</value>
   <value column="Description" original="Define Country">Definir País</value>
   <value column="Help" original="The Country Tab defines any country in which you do business.  Values entered here are referenced in location records for Business Partners.">La pestaña de país define cada país en la cual se ejecutan negocios. Los valores entrados aquí son referenciados en las direcciones de socios comerciales.</value>
  </row>
  <row id="136" trl="Y">
   <value column="Name" original="Region">Región</value>
-  <value column="CommitWarning" original="Please create a support request - https://idempiere.atlassian.net/secure/CreateIssue.jspa - if the region info is not correct/incomplete.">Por favor crear un registro de soporte (http://www.idempiere.org/support/requests.html) si los datos de la región no son correctos.</value>
+  <value column="CommitWarning" original="Please create a support request - https://idempiere.atlassian.net/secure/CreateIssue.jspa - if the region info is not correct/incomplete.">Por favor crear un registro de soporte (http://www.idempiere.org/support/) si los datos de la región no son correctos.</value>
   <value column="Description" original="Define Regions">Definir regiones</value>
   <value column="Help" original="The Region Tab  defines a Region within a Country.  This tab is enabled only if the Has Region checkbox is selected for the Country.">La pestaña de Región define una región dentro de un país. Esta pestaña es activa solamente si en la pestaña de país el cuadro de validación `Tiene Región` ha sido activado.</value>
  </row>
@@ -1535,9 +1535,9 @@ Nuevo precio de lista: Base =Lista, Recargo=0, Descuento=0, Redondeo]]></value>
   <value column="Name" original="Expense Report">Informe de Gasto</value>
   <value column="CommitWarning" original=""/>
   <value column="Description" original="Time and Expense Report">Informe de Tiempo y Gasto</value>
-  <value column="Help" original="Enter the time and expenses for the Employee or Contractor (Business Partner). &lt;br&gt;&#10;The price list determines the default costs of the expenses, products or resource to be reimbursed. In that sense, it is a &quot;Purchase Price&quot; list. The Warehouse is used to correct the inventory of items invoiced to customers (i.e. if not invoiced, the inventory is not adjusted).&lt;br&gt;&#10;Please note that the Business Partner &lt;b&gt;must&lt;/b&gt; be an Employee with an Address and Contact!">Introduzca el tiempo y los gastos del Empleado o Contratista (Socio Comercial). &lt;br&gt;
-La lista de precios determina los costos predeterminados de gastos, productos o recursos que se reembolsarán; en ese sentido, es una lista de Precios de Compra. El Depósito se utiliza para ajustar el inventario de artículos facturados a clientes (si no se facturan, no se ajusta).&lt;br&gt;
-El Socio Comercial &lt;b&gt;debe&lt;/b&gt; ser un Empleado con Dirección y Contacto.</value>
+  <value column="Help" original="Enter the time and expenses for the Employee or Contractor (Business Partner). &lt;br&gt;&#10;The price list determines the default costs of the expenses, products or resource to be reimbursed. In that sense, it is a &quot;Purchase Price&quot; list. The Warehouse is used to correct the inventory of items invoiced to customers (i.e. if not invoiced, the inventory is not adjusted).&lt;br&gt;&#10;Please note that the Business Partner &lt;b&gt;must&lt;/b&gt; be an Employee with an Address and Contact!" xml:space="preserve"><![CDATA[Introduzca el tiempo y los gastos del Empleado o Contratista (Socio Comercial). <br>
+La lista de precios determina los costos predeterminados de gastos, productos o recursos que se reembolsarán; en ese sentido, es una lista de Precios de Compra. El Depósito se utiliza para ajustar el inventario de artículos facturados a clientes (si no se facturan, no se ajusta).<br>
+El Socio Comercial <b>debe</b> ser un Empleado con Dirección y Contacto.]]></value>
  </row>
  <row id="413" trl="Y">
   <value column="Name" original="Report Line">Línea del Informe</value>

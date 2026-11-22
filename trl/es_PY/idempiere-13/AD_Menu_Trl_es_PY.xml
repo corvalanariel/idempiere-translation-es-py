@@ -49,7 +49,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="166" trl="Y">
-  <value column="Name" original="Quote-to-Invoice (Sales) ">Ventas (Cotización-a-Factura)</value>
+  <value column="Name" original="Quote-to-Invoice (Sales) ">Procesos de Venta</value>
   <value column="Description" original=""/>
  </row>
  <row id="167" trl="Y">
@@ -65,7 +65,7 @@
   <value column="Description" original=""/>
  </row>
  <row id="203" trl="Y">
-  <value column="Name" original="Requisition-to-Invoice (Purchasing)">Compras (de Solicitud de Compra a Factura)</value>
+  <value column="Name" original="Requisition-to-Invoice (Purchasing)">Procesos de Compra</value>
   <value column="Description" original=""/>
  </row>
  <row id="218" trl="Y">

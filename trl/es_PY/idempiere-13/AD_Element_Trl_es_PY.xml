@@ -10114,20 +10114,20 @@ Puede cargar la imagen en la base de datos o indicar un gráfico mediante una UR
   <value column="Name" original="Read Only Logic">Lógica de solo Lectura</value>
   <value column="PrintName" original="Read Only Logic">Logica de solo Lectura</value>
   <value column="Description" original="Logic to determine if field is read only (applies only when field is read-write)">Lógica para determinar si el campo es de sólo lectura (aplica solamente cuando el campo es lectura-escritura</value>
-  <value column="Help" original="format := {expression} [{logic} {expression}]&lt;br&gt; &#10;expression := @{context}@{operand}{value} or @{context}@{operand}{value}&lt;br&gt; &#10;logic := {|}|{&amp;}&lt;br&gt;&#10;context := any global or window context &lt;br&gt;&#10;value := strings or numbers&lt;br&gt;&#10;logic operators&#9;:= AND or OR with the previous result from left to right &lt;br&gt;&#10;operand := eq{=}, gt{&amp;gt;}, le{&amp;lt;}, not{~^!} &lt;br&gt;&#10;Examples: &lt;br&gt;&#10;&lt;ul&gt;&#10;&lt;li&gt; @AD_Table_ID@=14 | @Language@!GERGER&lt;/li&gt;&#10;&lt;li&gt; @PriceLimit@&gt;10 | @PriceList@&gt;@PriceActual@&lt;/li&gt;&#10;&lt;li&gt; @Name@&gt;J&lt;/li&gt;&#10;&lt;/ul&gt;&#10;Strings may be in single quotes (optional)">format := {expression} [{logic} {expression}]&lt;br&gt; 
-expression := @{context}@{operand}{value} or @{context}@{operand}{value}&lt;br&gt; 
-logic := {|}|{&amp;}&lt;br&gt;
-context := cualquier contexto global o de ventana &lt;br&gt;
-value := cadenas o números&lt;br&gt;
-operadores lógicos	:= AND u OR con el resultado anterior, de izquierda a derecha &lt;br&gt;
-operand := eq{=}, gt{&amp;gt;}, le{&amp;lt;}, not{~^!} &lt;br&gt;
-Ejemplos: &lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt; @AD_Table_ID@=14 | @Language@!GERGER&lt;/li&gt;
-&lt;li&gt; @PriceLimit@&gt;10 | @PriceList@&gt;@PriceActual@&lt;/li&gt;
-&lt;li&gt; @Name@&gt;J&lt;/li&gt;
-&lt;/ul&gt;
-Las cadenas pueden encerrarse entre comillas simples (opcional)</value>
+  <value column="Help" original="format := {expression} [{logic} {expression}]&lt;br&gt; &#10;expression := @{context}@{operand}{value} or @{context}@{operand}{value}&lt;br&gt; &#10;logic := {|}|{&amp;}&lt;br&gt;&#10;context := any global or window context &lt;br&gt;&#10;value := strings or numbers&lt;br&gt;&#10;logic operators&#9;:= AND or OR with the previous result from left to right &lt;br&gt;&#10;operand := eq{=}, gt{&amp;gt;}, le{&amp;lt;}, not{~^!} &lt;br&gt;&#10;Examples: &lt;br&gt;&#10;&lt;ul&gt;&#10;&lt;li&gt; @AD_Table_ID@=14 | @Language@!GERGER&lt;/li&gt;&#10;&lt;li&gt; @PriceLimit@&gt;10 | @PriceList@&gt;@PriceActual@&lt;/li&gt;&#10;&lt;li&gt; @Name@&gt;J&lt;/li&gt;&#10;&lt;/ul&gt;&#10;Strings may be in single quotes (optional)" xml:space="preserve"><![CDATA[format := {expression} [{logic} {expression}]<br> 
+expression := @{context}@{operand}{value} or @{context}@{operand}{value}<br> 
+logic := {|}|{&}<br>
+context := cualquier contexto global o de ventana <br>
+value := cadenas o números<br>
+operadores lógicos	:= AND u OR con el resultado anterior, de izquierda a derecha <br>
+operand := eq{=}, gt{&gt;}, le{&lt;}, not{~^!} <br>
+Ejemplos: <br>
+<ul>
+<li> @AD_Table_ID@=14 | @Language@!GERGER</li>
+<li> @PriceLimit@>10 | @PriceList@>@PriceActual@</li>
+<li> @Name@>J</li>
+</ul>
+Las cadenas pueden encerrarse entre comillas simples (opcional)]]></value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -20025,8 +20025,8 @@ La secuencia de Ciudad/Región/Postal es determinada con la dirección de format
   <value column="Name" original="Document Value Logic">Lógica del Valor del Documento</value>
   <value column="PrintName" original="Doc Value Logic">Lógica del Valor del Documento</value>
   <value column="Description" original="Logic to determine Workflow Start - If true, a workflow process is started for the document">Lógica para determinar el Inicio del FT - Si es verdadero, un proceso de FT es iniciado para el documento</value>
-  <value column="Help" original="You can enter simple logic using variables like @Created@=@Updated@, which fires, when a record is created. If you need to evaluate also values of other records, you need to use SQL logic and need to prefix this logic with &quot;SQL=&quot;. Example: start a Order verify workflow, when a business partner ordered something and is over the credit limit  &quot;SQL=EXISTS (SELECT * FROM C_BPartner bp WHERE C_Order. C_BPartner_ID=bp. C_BPartner_ID AND SO_CreditUsed &gt; SO_CreditLimit)&quot;.&#10;Note that the SQL based logic checks for duplicate workflows (i.e. a workflow is started only once per record).">Puede introducir una lógica simple utilizando variables como @Created@=@Updated@, que se activa cuando se crea un registro. Si también necesita evaluar valores de otros registros, utilice lógica SQL con el prefijo "SQL=". Por ejemplo, iniciar un flujo de verificación de pedidos cuando un Socio Comercial haya realizado un pedido y supere el límite de crédito: "SQL=EXISTS (SELECT * FROM C_BPartner bp WHERE C_Order. C_BPartner_ID=bp. C_BPartner_ID AND SO_CreditUsed &gt; SO_CreditLimit)".
-La lógica SQL comprueba que no haya flujos de trabajo duplicados; cada flujo se inicia una sola vez por registro.</value>
+  <value column="Help" original="You can enter simple logic using variables like @Created@=@Updated@, which fires, when a record is created. If you need to evaluate also values of other records, you need to use SQL logic and need to prefix this logic with &quot;SQL=&quot;. Example: start a Order verify workflow, when a business partner ordered something and is over the credit limit  &quot;SQL=EXISTS (SELECT * FROM C_BPartner bp WHERE C_Order. C_BPartner_ID=bp. C_BPartner_ID AND SO_CreditUsed &gt; SO_CreditLimit)&quot;.&#10;Note that the SQL based logic checks for duplicate workflows (i.e. a workflow is started only once per record)." xml:space="preserve"><![CDATA[Puede introducir una lógica simple utilizando variables como @Created@=@Updated@, que se activa cuando se crea un registro. Si también necesita evaluar valores de otros registros, utilice lógica SQL con el prefijo "SQL=". Por ejemplo, iniciar un flujo de verificación de pedidos cuando un Socio Comercial haya realizado un pedido y supere el límite de crédito: "SQL=EXISTS (SELECT * FROM C_BPartner bp WHERE C_Order. C_BPartner_ID=bp. C_BPartner_ID AND SO_CreditUsed > SO_CreditLimit)".
+La lógica SQL comprueba que no haya flujos de trabajo duplicados; cada flujo se inicia una sola vez por registro.]]></value>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>
   <value column="PO_Help" original=""/>
@@ -66147,7 +66147,7 @@ Las cadenas pueden encerrarse entre comillas simples (opcional)]]></value>
  <row id="204032" trl="Y">
   <value column="Name" original="Statement Type">Tipo de Estado Financiero</value>
   <value column="PrintName" original="Statement Type">Tipo de Estado Financiero</value>
-  <value column="Description" original="Statement Type can be Balance or P&amp;L" xml:space="preserve"><![CDATA[El tipo de estado financiero puede ser Balance o Pérdidas y Ganancias]]></value>
+  <value column="Description" original="Statement Type can be Balance or P&amp;L">El tipo de estado financiero puede ser Balance o Pérdidas y Ganancias</value>
   <value column="Help" original=""/>
   <value column="Placeholder" original=""/>
   <value column="PO_Description" original=""/>

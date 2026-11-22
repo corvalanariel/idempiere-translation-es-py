@@ -1197,7 +1197,55 @@
  <row id="200150" trl="N">
   <value column="Name" original="Burgenland">Burgenland</value>
  </row>
- <row trl="N" uuid="01a187db-56e5-7a73-a076-7b9386bc274b">
+ <row trl="Y" uuid="01a187db-56e5-7a73-a076-7b9386bc274b">
   <value column="Name" original="ALTO PARANA">ALTO PARANA</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1a59-7b89-8a4c-5e4968efa674">
+  <value column="Name" original="ALTO PARAGUAY">ALTO PARAGUAY</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1acf-7221-ad97-8bca9bb30406">
+  <value column="Name" original="AMAMBAY">AMAMBAY</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1afe-7291-9411-cf23a3fdb9d6">
+  <value column="Name" original="BOQUERON">BOQUERON</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1b23-7394-b1c4-265b4ce91f9d">
+  <value column="Name" original="CAAGUAZU">CAAGUAZU</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1b4e-7839-9372-a02f30781f1c">
+  <value column="Name" original="CAAZAPA">CAAZAPA</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1b67-7880-bee8-f8a501419c7b">
+  <value column="Name" original="CANINDEYU">CANINDEYU</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1b80-7edf-9ed6-b836f6757f2c">
+  <value column="Name" original="CENTRAL">CENTRAL</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1b9d-7cfd-b0a0-4c9c85c03aec">
+  <value column="Name" original="CONCEPCION">CONCEPCION</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1bbf-706b-8d43-2781fdf2108c">
+  <value column="Name" original="CORDILLERA">CORDILLERA</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1be1-7d1c-adfe-4492727a838e">
+  <value column="Name" original="GUAIRA">GUAIRA</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1bfc-79fa-b90a-9f1bce292dbc">
+  <value column="Name" original="ITAPUA">ITAPUA</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1c1c-7731-98d1-0d4f2b53b62e">
+  <value column="Name" original="MISIONES">MISIONES</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1c45-70bb-8af5-331b943cd3ca">
+  <value column="Name" original="ÑEEMBUCU">ÑEEMBUCU</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1c6c-7760-9508-a941a87d85f3">
+  <value column="Name" original="PARAGUARI">PARAGUARI</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1c8d-7f28-b0e4-e7d18c738da9">
+  <value column="Name" original="PRESIDENTE HAYES">PRESIDENTE HAYES</value>
+ </row>
+ <row trl="Y" uuid="01a1c353-1cb7-7d30-b8bc-8afd398eee3f">
+  <value column="Name" original="SAN PEDRO">SAN PEDRO</value>
  </row>
 </idempiereTrl>

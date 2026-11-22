@@ -52,7 +52,7 @@
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="Order LineTax">Líneas e Impuestos de Pedido</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Líneas e Impuestos de Pedido Estándar]]></value>
+  <value column="Description" original="Standard Order Line&amp;Tax">Líneas e Impuestos de Pedido Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="120" trl="Y">
@@ -62,7 +62,7 @@
  </row>
  <row id="121" trl="Y">
   <value column="Name" original="Invoice LineTax">Líneas e Impuestos de Factura</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Líneas e Impuestos de Factura Estándar]]></value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines">Líneas e Impuestos de Factura Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row id="122" trl="Y">
@@ -472,7 +472,7 @@
  </row>
  <row trl="Y" uuid="01a187e1-392c-755e-8be0-015542f1c3a2">
   <value column="Name" original="Order_LineTax  ** 1000000 ** - Copiar registro">Order_LineTax  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve"><![CDATA[Líneas e Impuestos de Pedido Estándar]]></value>
+  <value column="Description" original="Standard Order Line&amp;Tax">Líneas e Impuestos de Pedido Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row trl="Y" uuid="01a187e1-3d68-72c4-b996-871c8ec6a3cf">
@@ -482,7 +482,7 @@
  </row>
  <row trl="Y" uuid="01a187e1-42cb-716f-8e78-c1957085d27f">
   <value column="Name" original="Invoice_LineTax  ** 1000000 ** - Copiar registro">Invoice_LineTax  ** 1000000 ** - Copiar registro</value>
-  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve"><![CDATA[Líneas e Impuestos de Factura Estándar]]></value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines">Líneas e Impuestos de Factura Estándar</value>
   <value column="FileNamePattern" original=""/>
  </row>
  <row trl="Y" uuid="01a187e1-46e9-7ac9-8d06-e68cb6f077ae">
@@ -517,6 +517,11 @@
  </row>
  <row trl="Y" uuid="01a1b453-122f-7cb6-8572-80691ce6ddb6">
   <value column="Name" original="Configurador del Sistema.">Configurador del Sistema.</value>
+  <value column="Description" original=""/>
+  <value column="FileNamePattern" original=""/>
+ </row>
+ <row trl="Y" uuid="01a1c3c5-241d-7c96-a8e0-261ebbb93079">
+  <value column="Name" original="Fuente de Impresión">Fuente de Impresión</value>
   <value column="Description" original=""/>
   <value column="FileNamePattern" original=""/>
  </row>

@@ -88,9 +88,9 @@
  <row id="118" trl="Y">
   <value column="Name" original="Generate Shipments">Generar Entregas</value>
   <value column="Description" original="Generate and print Shipments from open Orders">Generar e imprimir entregas de pedidos abiertos</value>
-  <value column="Help" original="Shipments for open Orders are created based on the delivery rule of the Order and the relative order priority.  If a Promise Date is selected only orders up to (including) the date are selected.&lt;br&gt;&#10;If several Orders of a business partner have the same location, the orders can be consolidated into one Shipment.&lt;br&gt;&#10;You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">Las entregas de pedidos abiertos se crean según la regla de entrega y la prioridad relativa del pedido. Si se selecciona una Fecha Prometida, solo se incluyen pedidos hasta esa fecha, inclusive.&lt;br&gt;
-Los pedidos de un mismo Socio Comercial y ubicación pueden consolidarse en una entrega.&lt;br&gt;
-También puede incluir pedidos con confirmaciones pendientes (por ejemplo, ordenado=10, entregas sin confirmar=4; se creará una nueva entrega de 6 si hay disponibilidad).</value>
+  <value column="Help" original="Shipments for open Orders are created based on the delivery rule of the Order and the relative order priority.  If a Promise Date is selected only orders up to (including) the date are selected.&lt;br&gt;&#10;If several Orders of a business partner have the same location, the orders can be consolidated into one Shipment.&lt;br&gt;&#10;You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available)." xml:space="preserve"><![CDATA[Las entregas de pedidos abiertos se crean según la regla de entrega y la prioridad relativa del pedido. Si se selecciona una Fecha Prometida, solo se incluyen pedidos hasta esa fecha, inclusive.<br>
+Los pedidos de un mismo Socio Comercial y ubicación pueden consolidarse en una entrega.<br>
+También puede incluir pedidos con confirmaciones pendientes (por ejemplo, ordenado=10, entregas sin confirmar=4; se creará una nueva entrega de 6 si hay disponibilidad).]]></value>
  </row>
  <row id="119" trl="Y">
   <value column="Name" original="Generate Invoices">Generar Facturas</value>
@@ -467,9 +467,9 @@ Los parámetros son valores por defecto que se asignan a valores nulos que venga
  <row id="200" trl="Y">
   <value column="Name" original="Print Invoices">Imprime Facturas</value>
   <value column="Description" original="Print Invoices to paper or send PDF">Imprima las facturas en papel o para enviar en PDF</value>
-  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail address.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard.">Reimprimir facturas o enviarlas como archivos PDF adjuntos al contacto del Socio Comercial con una dirección de correo válida.
-&lt;br&gt;
-Si solo introduce un número de documento DESDE, se imprimen todas las facturas con número mayor o igual. También puede utilizar % como comodín.</value>
+  <value column="Help" original="(Re)Print Invoices or send them as PDF attachments to the Business Partner Contact with a valid EMail address.&#10;&lt;br&gt;&#10;Remark: If you only enter a Document No FROM value, all invoices greater or equal that document number are printed; you can alternatively use the % character as a widcard." xml:space="preserve"><![CDATA[Reimprimir facturas o enviarlas como archivos PDF adjuntos al contacto del Socio Comercial con una dirección de correo válida.
+<br>
+Si solo introduce un número de documento DESDE, se imprimen todas las facturas con número mayor o igual. También puede utilizar % como comodín.]]></value>
  </row>
  <row id="201" trl="Y">
   <value column="Name" original="Deliver Assets">Entrega de Activos</value>
@@ -2323,8 +2323,8 @@ Por ejemplo:<br />
 ]]></value>
  </row>
  <row id="200118" trl="Y">
-  <value column="Name" original="Create Window, Tab and Field from Table" xml:space="preserve"><![CDATA[Crear Ventana, Pestaña y Campos desde Tabla]]></value>
-  <value column="Description" original="Create Window, Tab and Field record of the Table" xml:space="preserve"><![CDATA[Crear los registros de Ventana, Pestaña y Campos de la Tabla]]></value>
+  <value column="Name" original="Create Window, Tab and Field from Table">Crear Ventana, Pestaña y Campos desde Tabla</value>
+  <value column="Description" original="Create Window, Tab and Field record of the Table">Crear los registros de Ventana, Pestaña y Campos de la Tabla</value>
   <value column="Help" original="This process will take the table definition and create the Window/Tab and field record with these options:&lt;br&gt;&#10;&#10;New Window: if selected the process will create a new Window record. Otherwise, the process will create a new tab and add it to the selected window.&lt;br&gt;&#10;Create Menu: if selected the process creates the menu record for the new window." xml:space="preserve"><![CDATA[Este proceso utiliza la definición de la tabla para crear los registros de Ventana/Pestaña y campos con estas opciones:<br>
 
 Nueva Ventana: si se selecciona, crea una nueva ventana. De lo contrario, crea una pestaña y la añade a la ventana seleccionada.<br>

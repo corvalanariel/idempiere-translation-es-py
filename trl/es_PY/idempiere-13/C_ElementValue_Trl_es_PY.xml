@@ -201,7 +201,7 @@
   <value column="Description" original="">6090-0-</value>
  </row>
  <row id="470" trl="Y">
-  <value column="Name" original="Staff Gifts &amp; Perks" xml:space="preserve"><![CDATA[Regalos y Beneficios al Personal]]></value>
+  <value column="Name" original="Staff Gifts &amp; Perks">Regalos y Beneficios al Personal</value>
   <value column="Description" original="">6091-0-</value>
  </row>
  <row id="471" trl="Y">
@@ -249,7 +249,7 @@
   <value column="Description" original="">6250-0-</value>
  </row>
  <row id="482" trl="Y">
-  <value column="Name" original="Other Advertising &amp; Promotion" xml:space="preserve"><![CDATA[Otra Publicidad y Promoción]]></value>
+  <value column="Name" original="Other Advertising &amp; Promotion">Otra Publicidad y Promoción</value>
   <value column="Description" original="">6280-0-</value>
  </row>
  <row id="483" trl="Y">
@@ -281,11 +281,11 @@
   <value column="Description" original="">6430-0-</value>
  </row>
  <row id="490" trl="Y">
-  <value column="Name" original="Stationary &amp; Supplies" xml:space="preserve"><![CDATA[Papelería y Suministros]]></value>
+  <value column="Name" original="Stationary &amp; Supplies">Papelería y Suministros</value>
   <value column="Description" original="">65--</value>
  </row>
  <row id="491" trl="Y">
-  <value column="Name" original="Stationary &amp; Supplies - Office Use" xml:space="preserve"><![CDATA[Papelería y Suministros de Oficina]]></value>
+  <value column="Name" original="Stationary &amp; Supplies - Office Use">Papelería y Suministros de Oficina</value>
   <value column="Description" original="">6510-0-</value>
  </row>
  <row id="492" trl="Y">
@@ -489,7 +489,7 @@
   <value column="Description" original="">14--</value>
  </row>
  <row id="542" trl="Y">
-  <value column="Name" original="Prepaid Expenses, Deposits &amp; Other Current Assets" xml:space="preserve"><![CDATA[Gastos Pagados por Anticipado, Depósitos y Otros Activos Corrientes]]></value>
+  <value column="Name" original="Prepaid Expenses, Deposits &amp; Other Current Assets">Gastos Pagados por Anticipado, Depósitos y Otros Activos Corrientes</value>
   <value column="Description" original="">15--</value>
  </row>
  <row id="543" trl="Y">
@@ -561,7 +561,7 @@
   <value column="Description" original="">1650-0-</value>
  </row>
  <row id="560" trl="Y">
-  <value column="Name" original="Furniture, Fixtures &amp; Equipment" xml:space="preserve"><![CDATA[Mobiliario, Instalaciones y Equipos]]></value>
+  <value column="Name" original="Furniture, Fixtures &amp; Equipment">Mobiliario, Instalaciones y Equipos</value>
   <value column="Description" original="">17--</value>
  </row>
  <row id="561" trl="Y">
@@ -757,7 +757,7 @@
   <value column="Description" original="">2225-0-</value>
  </row>
  <row id="609" trl="Y">
-  <value column="Name" original="401k &amp; Pension Withholding" xml:space="preserve"><![CDATA[Retenciones para 401k y Pensiones]]></value>
+  <value column="Name" original="401k &amp; Pension Withholding">Retenciones para 401k y Pensiones</value>
   <value column="Description" original="">2226-0-</value>
  </row>
  <row id="610" trl="Y">
@@ -921,7 +921,7 @@
   <value column="Description" original="">6830-0-</value>
  </row>
  <row id="650" trl="Y">
-  <value column="Name" original="Business Meals &amp; Entertainment (50%)" xml:space="preserve"><![CDATA[Comidas y Entretenimiento de Negocios (50%)]]></value>
+  <value column="Name" original="Business Meals &amp; Entertainment (50%)">Comidas y Entretenimiento de Negocios (50%)</value>
   <value column="Description" original="">6840-0-</value>
  </row>
  <row id="651" trl="Y">
@@ -973,7 +973,7 @@
   <value column="Description" original="">7090-0-</value>
  </row>
  <row id="663" trl="Y">
-  <value column="Name" original="Dues &amp; Subscription" xml:space="preserve"><![CDATA[Cuotas y Suscripciones]]></value>
+  <value column="Name" original="Dues &amp; Subscription">Cuotas y Suscripciones</value>
   <value column="Description" original="">71--</value>
  </row>
  <row id="664" trl="Y">
@@ -993,7 +993,7 @@
   <value column="Description" original="">7210-0-</value>
  </row>
  <row id="668" trl="Y">
-  <value column="Name" original="Posting &amp; Shipping" xml:space="preserve"><![CDATA[Correo y Envíos]]></value>
+  <value column="Name" original="Posting &amp; Shipping">Correo y Envíos</value>
   <value column="Description" original="">73--</value>
  </row>
  <row id="669" trl="Y">
@@ -1013,7 +1013,7 @@
   <value column="Description" original="">74--</value>
  </row>
  <row id="673" trl="Y">
-  <value column="Name" original="Inventory &amp; Use Taxes" xml:space="preserve"><![CDATA[Impuestos sobre Inventario y Uso]]></value>
+  <value column="Name" original="Inventory &amp; Use Taxes">Impuestos sobre Inventario y Uso</value>
   <value column="Description" original="">7420-0-</value>
  </row>
  <row id="674" trl="Y">
@@ -1021,7 +1021,7 @@
   <value column="Description" original="">7430-0-</value>
  </row>
  <row id="675" trl="Y">
-  <value column="Name" original="Business Licenses &amp; Fees" xml:space="preserve"><![CDATA[Licencias y Tasas Comerciales]]></value>
+  <value column="Name" original="Business Licenses &amp; Fees">Licencias y Tasas Comerciales</value>
   <value column="Description" original="">7440-0-</value>
  </row>
  <row id="676" trl="Y">
@@ -1033,7 +1033,7 @@
   <value column="Description" original="">7520-0-</value>
  </row>
  <row id="678" trl="Y">
-  <value column="Name" original="Education Meals &amp; Entertainment (50%)" xml:space="preserve"><![CDATA[Comidas y Entretenimiento de Capacitación (50%)]]></value>
+  <value column="Name" original="Education Meals &amp; Entertainment (50%)">Comidas y Entretenimiento de Capacitación (50%)</value>
   <value column="Description" original="">7530-0-</value>
  </row>
  <row id="679" trl="Y">
@@ -1049,15 +1049,15 @@
   <value column="Description" original="">7620-0-</value>
  </row>
  <row id="682" trl="Y">
-  <value column="Name" original="Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaciones y Mantenimiento]]></value>
+  <value column="Name" original="Repairs &amp; Maintenance">Reparaciones y Mantenimiento</value>
   <value column="Description" original="">77--</value>
  </row>
  <row id="683" trl="Y">
-  <value column="Name" original="Building Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaciones y Mantenimiento de Edificios]]></value>
+  <value column="Name" original="Building Repairs &amp; Maintenance">Reparaciones y Mantenimiento de Edificios</value>
   <value column="Description" original="">7710-0-</value>
  </row>
  <row id="684" trl="Y">
-  <value column="Name" original="Furniture, Equipment Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaciones y Mantenimiento de Mobiliario y Equipos]]></value>
+  <value column="Name" original="Furniture, Equipment Repairs &amp; Maintenance">Reparaciones y Mantenimiento de Mobiliario y Equipos</value>
   <value column="Description" original="">7720-0-</value>
  </row>
  <row id="685" trl="Y">
@@ -1065,11 +1065,11 @@
   <value column="Description" original="">7740-0-</value>
  </row>
  <row id="686" trl="Y">
-  <value column="Name" original="Vehicle Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaciones y Mantenimiento de Vehículos]]></value>
+  <value column="Name" original="Vehicle Repairs &amp; Maintenance">Reparaciones y Mantenimiento de Vehículos</value>
   <value column="Description" original="">7750-0-</value>
  </row>
  <row id="687" trl="Y">
-  <value column="Name" original="Repairs &amp; Maintenance Other" xml:space="preserve"><![CDATA[Otras Reparaciones y Mantenimiento]]></value>
+  <value column="Name" original="Repairs &amp; Maintenance Other">Otras Reparaciones y Mantenimiento</value>
   <value column="Description" original="">7790-0-</value>
  </row>
  <row id="688" trl="Y">
@@ -1233,7 +1233,7 @@
   <value column="Description" original="">8290-0-</value>
  </row>
  <row id="728" trl="Y">
-  <value column="Name" original="Income Tax &amp; Summary" xml:space="preserve"><![CDATA[Impuesto sobre la Renta y Resumen]]></value>
+  <value column="Name" original="Income Tax &amp; Summary">Impuesto sobre la Renta y Resumen</value>
   <value column="Description" original="">89--</value>
  </row>
  <row id="729" trl="Y">
@@ -1377,7 +1377,7 @@
   <value column="Description" original="">7690-0-</value>
  </row>
  <row id="764" trl="Y">
-  <value column="Name" original="Data Processing Repairs &amp; Maintenance" xml:space="preserve"><![CDATA[Reparaciones y Mantenimiento de Equipos de Procesamiento de Datos]]></value>
+  <value column="Name" original="Data Processing Repairs &amp; Maintenance">Reparaciones y Mantenimiento de Equipos de Procesamiento de Datos</value>
   <value column="Description" original="">7730-0-</value>
  </row>
  <row id="765" trl="Y">
@@ -1421,7 +1421,7 @@
   <value column="Description" original="">121--</value>
  </row>
  <row id="775" trl="Y">
-  <value column="Name" original="Licenses &amp; Fees - Other" xml:space="preserve"><![CDATA[Otras Licencias y Tasas]]></value>
+  <value column="Name" original="Licenses &amp; Fees - Other">Otras Licencias y Tasas</value>
   <value column="Description" original="">7490-0-</value>
  </row>
  <row id="776" trl="Y">

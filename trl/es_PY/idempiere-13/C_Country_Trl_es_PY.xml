@@ -2367,8 +2367,8 @@
   <value column="RegionName" original=""/>
  </row>
  <row id="276" trl="Y">
-  <value column="Name" original="Paraguay">Paraguay</value>
-  <value column="Description" original="the Republic of Paraguay">Paraguay</value>
+  <value column="Name" original="Paraguay">PARAGUAY</value>
+  <value column="Description" original="The Republic of Paraguay">REPUBLICA DEL PARAGUAY</value>
   <value column="PlaceholderAddress1" original=""/>
   <value column="PlaceholderAddress2" original=""/>
   <value column="PlaceholderAddress3" original=""/>
@@ -2378,7 +2378,7 @@
   <value column="PlaceholderComments" original=""/>
   <value column="PlaceholderPostal" original=""/>
   <value column="PlaceholderPostal_Add" original=""/>
-  <value column="RegionName" original=""/>
+  <value column="RegionName" original="Department">DEPARTAMENTO</value>
  </row>
  <row id="277" trl="Y">
   <value column="Name" original="Peru">Perú</value>

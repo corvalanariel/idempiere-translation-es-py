@@ -33,7 +33,7 @@
  <row id="50005" trl="Y">
   <value column="Name" original="Fixtures">Instalaciones y Accesorios</value>
   <value column="Description" original="Fixtures">Instalaciones y Accesorios</value>
-  <value column="Help" original="Fixtures including tools &amp; dies" xml:space="preserve"><![CDATA[Instalaciones y accesorios, incluidas herramientas y matrices]]></value>
+  <value column="Help" original="Fixtures including tools &amp; dies">Instalaciones y accesorios, incluidas herramientas y matrices</value>
  </row>
  <row id="50006" trl="Y">
   <value column="Name" original="Vehicles">Vehículos</value>

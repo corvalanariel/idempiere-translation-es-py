@@ -413,7 +413,7 @@ Correo electrónico de la persona responsable del sistema registrada en la tiend
  <row id="53517" trl="Y">
   <value column="Name" original="BOM &amp; Formula" xml:space="preserve"><![CDATA[LDM & Fórmula]]></value>
   <value column="Description" original=""/>
-  <value column="Help" original="The name BOM/Formula that you introduce in this window will be considered the default BOM to produce the product in this Organization-Plant-Warehouse. If you do not fill this field the default BOM &amp; Formula for the entity will be the BOM/Formula which has the same name as the product." xml:space="preserve"><![CDATA[La Lista de Materiales/Fórmula que indique en esta ventana será la predeterminada para producir el producto en esta Organización-Planta-Almacén. Si no completa este campo, se utilizará la Lista de Materiales/Fórmula que tenga el mismo nombre que el producto.]]></value>
+  <value column="Help" original="The name BOM/Formula that you introduce in this window will be considered the default BOM to produce the product in this Organization-Plant-Warehouse. If you do not fill this field the default BOM &amp; Formula for the entity will be the BOM/Formula which has the same name as the product.">La Lista de Materiales/Fórmula que indique en esta ventana será la predeterminada para producir el producto en esta Organización-Planta-Almacén. Si no completa este campo, se utilizará la Lista de Materiales/Fórmula que tenga el mismo nombre que el producto.</value>
   <value column="Placeholder" original=""/>
  </row>
  <row id="53518" trl="Y">
